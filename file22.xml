@@ -2,9 +2,6 @@
 <channel>
 
 
-
-	#EXTM3U
-
 <item>
 		<title>beIN SPORTS 1-4K</title>
                 <enclosure url="http://163.172.18.54:8000/live/5245G0LCKqd94P/25TE014mD41788/6.ts" />  </item>
@@ -392,7 +389,7 @@
                 <enclosure url="http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1044.ts" />  </item>
 
 <item>
-		<title>Sky Movies Action & Adventure HD uk</title>
+		<title>Sky Movies Action _ Adventure HD uk</title>
                 <enclosure url="http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1048.ts" />  </item>
 
 <item>
@@ -1230,7 +1227,7 @@
                 <enclosure url="http://xc.cobra-iptv.com:25461/live/belgium-v2/Uxf2oTL0bW/793.ts" />  </item>
 
 <item>
-		<title>|SP| A&E</title>
+		<title>|SP| A_E</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.ts" />  </item>
 
 <item>
@@ -1598,7 +1595,7 @@
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/209.ts" />  </item>
 
 <item>
-		<title>Iptv4sat.com|FR| Chasse&Peche</title>
+		<title>Iptv4sat.com|FR| Chasse_Peche</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/208.ts" />  </item>
 
 <item>
@@ -1838,7 +1835,7 @@
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/147.ts" />  </item>
 
 <item>
-		<title>Iptv4sat.com|FR| Science & Vie</title>
+		<title>Iptv4sat.com|FR| Science _ Vie</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/146.ts" />  </item>
 
 <item>
@@ -2034,7 +2031,7 @@
                 <enclosure url="http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/11852.ts" />  </item>
 
 <item>
-		<title>Iptv4sat.com ++++++ BEIN SPORT FRANCE & SFR FRANCE ++++++</title>
+		<title>Iptv4sat.com ++++++ BEIN SPORT FRANCE _ SFR FRANCE ++++++</title>
                 <enclosure url="http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12195.ts" />  </item>
 
 <item>
@@ -2342,7 +2339,7 @@
                 <enclosure url="http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/13039.ts" />  </item>
 
 <item>
-		<title>Iptv4sat FR_PLANETE_ _A&E_FullHD</title>
+		<title>Iptv4sat FR_PLANETE_ _A_E_FullHD</title>
                 <enclosure url="http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/13013.ts" />  </item>
 
 <item>
@@ -2646,7 +2643,7 @@
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/209.ts" />  </item>
 
 <item>
-		<title>Iptv4sat.com|FR| Chasse&Peche</title>
+		<title>Iptv4sat.com|FR| Chasse_Peche</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/208.ts" />  </item>
 
 <item>
@@ -2886,7 +2883,7 @@
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/147.ts" />  </item>
 
 <item>
-		<title>Iptv4sat.com|FR| Science & Vie</title>
+		<title>Iptv4sat.com|FR| Science _ Vie</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/146.ts" />  </item>
 
 <item>
@@ -2986,7 +2983,7 @@
                 <enclosure url="http://62.210.245.19:8000/live/5245G0LCKqd94P/25TE014mD41788/459.ts" />  </item>
 
 <item>
-		<title>Iptv4sat.com PLANETE  A&E</title>
+		<title>Iptv4sat.com PLANETE  A_E</title>
                 <enclosure url="http://62.210.245.19:8000/live/5245G0LCKqd94P/25TE014mD41788/460.ts" />  </item>
 
 <item>
@@ -3795,7 +3792,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/109.ts" />  </item>
 
 <item>
-		<title>|UK| CRIME & INVESTIGATION</title>
+		<title>|UK| CRIME _ INVESTIGATION</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/108.ts" />  </item>
 
 <item>
@@ -3835,7 +3832,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/101.ts" />  </item>
 
 <item>
-		<title>|UK| Fast&FunBox HD</title>
+		<title>|UK| Fast_FunBox HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/100.ts" />  </item>
 
 <item>
@@ -3863,7 +3860,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/94.ts" />  </item>
 
 <item>
-		<title>|UK| Home & Leisure</title>
+		<title>|UK| Home _ Leisure</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/93.ts" />  </item>
 
 <item>
@@ -3995,7 +3992,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/58.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Action & Adventure HD</title>
+		<title>|UK| Sky Cinema Action _ Adventure HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/57.ts" />  </item>
 
 <item>
@@ -4003,7 +4000,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/56.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Crime & Thriller HD</title>
+		<title>|UK| Sky Cinema Crime _ Thriller HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/55.ts" />  </item>
 
 <item>
@@ -4011,7 +4008,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/54.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Drama & Romance HD</title>
+		<title>|UK| Sky Cinema Drama _ Romance HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/53.ts" />  </item>
 
 <item>
@@ -4027,7 +4024,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/50.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema SciFi & Horror HD</title>
+		<title>|UK| Sky Cinema SciFi _ Horror HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/49.ts" />  </item>
 
 <item>
@@ -4179,7 +4176,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/109.ts" />  </item>
 
 <item>
-		<title>|UK| CRIME & INVESTIGATION</title>
+		<title>|UK| CRIME _ INVESTIGATION</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/108.ts" />  </item>
 
 <item>
@@ -4219,7 +4216,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/101.ts" />  </item>
 
 <item>
-		<title>|UK| Fast&FunBox HD</title>
+		<title>|UK| Fast_FunBox HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/100.ts" />  </item>
 
 <item>
@@ -4247,7 +4244,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/94.ts" />  </item>
 
 <item>
-		<title>|UK| Home & Leisure</title>
+		<title>|UK| Home _ Leisure</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/93.ts" />  </item>
 
 <item>
@@ -4387,7 +4384,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/58.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Action & Adventure HD</title>
+		<title>|UK| Sky Cinema Action _ Adventure HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/57.ts" />  </item>
 
 <item>
@@ -4395,7 +4392,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/56.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Crime & Thriller HD</title>
+		<title>|UK| Sky Cinema Crime _ Thriller HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/55.ts" />  </item>
 
 <item>
@@ -4403,7 +4400,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/54.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Drama & Romance HD</title>
+		<title>|UK| Sky Cinema Drama _ Romance HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/53.ts" />  </item>
 
 <item>
@@ -4419,7 +4416,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/50.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema SciFi & Horror HD</title>
+		<title>|UK| Sky Cinema SciFi _ Horror HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/49.ts" />  </item>
 
 <item>
@@ -4503,7 +4500,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/264.ts" />  </item>
 
 <item>
-		<title>|US| A&E</title>
+		<title>|US| A_E</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/338.ts" />  </item>
 
 <item>
@@ -4807,7 +4804,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/311.ts" />  </item>
 
 <item>
-		<title>|US| A&E</title>
+		<title>|US| A_E</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/338.ts" />  </item>
 
 <item>
@@ -5645,7 +5642,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/78.ts" />  </item>
 
 <item>
-		<title>Pink Crime&Mystery</title>
+		<title>Pink Crime_Mystery</title>
                 <enclosure url="http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/167.ts" />  </item>
 
 <item>
@@ -6177,7 +6174,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1044.ts" />  </item>
 
 <item>
-		<title>Sky Movies Action & Adventure HD uk</title>
+		<title>Sky Movies Action _ Adventure HD uk</title>
                 <enclosure url="http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1048.ts" />  </item>
 
 <item>
@@ -6475,7 +6472,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2504.ts" />  </item>
 
 <item>
-		<title>RO: Fishing & Hunting</title>
+		<title>RO: Fishing _ Hunting</title>
                 <enclosure url="http://xc.cobra-iptv.com:25461/live/romanian-v2/Z0JcQl2OGp/2505.ts" />  </item>
 
 <item>
@@ -6613,7 +6610,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/109.ts" />  </item>
 
 <item>
-		<title>|UK| CRIME & INVESTIGATION</title>
+		<title>|UK| CRIME _ INVESTIGATION</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/108.ts" />  </item>
 
 <item>
@@ -6653,7 +6650,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/101.ts" />  </item>
 
 <item>
-		<title>|UK| Fast&FunBox HD</title>
+		<title>|UK| Fast_FunBox HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/100.ts" />  </item>
 
 <item>
@@ -6681,7 +6678,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/94.ts" />  </item>
 
 <item>
-		<title>|UK| Home & Leisure</title>
+		<title>|UK| Home _ Leisure</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/93.ts" />  </item>
 
 <item>
@@ -6813,7 +6810,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/58.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Action & Adventure HD</title>
+		<title>|UK| Sky Cinema Action _ Adventure HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/57.ts" />  </item>
 
 <item>
@@ -6821,7 +6818,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/56.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Crime & Thriller HD</title>
+		<title>|UK| Sky Cinema Crime _ Thriller HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/55.ts" />  </item>
 
 <item>
@@ -6829,7 +6826,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/54.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema Drama & Romance HD</title>
+		<title>|UK| Sky Cinema Drama _ Romance HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/53.ts" />  </item>
 
 <item>
@@ -6845,7 +6842,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/50.ts" />  </item>
 
 <item>
-		<title>|UK| Sky Cinema SciFi & Horror HD</title>
+		<title>|UK| Sky Cinema SciFi _ Horror HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/49.ts" />  </item>
 
 <item>
@@ -7021,7 +7018,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/209.ts" />  </item>
 
 <item>
-		<title>|FR| Chasse&Peche</title>
+		<title>|FR| Chasse_Peche</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/208.ts" />  </item>
 
 <item>
@@ -7261,7 +7258,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/147.ts" />  </item>
 
 <item>
-		<title>|FR| Science & Vie</title>
+		<title>|FR| Science _ Vie</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/146.ts" />  </item>
 
 <item>
@@ -7465,7 +7462,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/264.ts" />  </item>
 
 <item>
-		<title>|US| A&E</title>
+		<title>|US| A_E</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/338.ts" />  </item>
 
 <item>
@@ -8805,7 +8802,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1143.ts" />  </item>
 
 <item>
-		<title>|SP| A&E</title>
+		<title>|SP| A_E</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.ts" />  </item>
 
 <item>
@@ -9085,7 +9082,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1085.ts" />  </item>
 
 <item>
-		<title>====&OSN&==== IPTVultra.com [1280x720]</title>
+		<title>====_OSN_==== IPTVultra.com [1280x720]</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3573.ts" />  </item>
 
 <item>
@@ -10826,7 +10823,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://2.15.79.67:9985/play/a03s" />  </item>
 
 <item>
-		<title>A&E</title>
+		<title>A_E</title>
                 <enclosure url="http://2.15.79.67:9985/play/a03u" />  </item>
 
 <item>
@@ -12067,7 +12064,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/598.ts" />  </item>
 
 <item>
-		<title>Crime & Investigation</title>
+		<title>Crime _ Investigation</title>
                 <enclosure url="http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/599.ts" />  </item>
 
 <item>
@@ -12649,11 +12646,11 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://163.172.52.83:8000/live/0479M7HI0f91U2/04090r8T7134WZ/261.ts" />  </item>
 
 <item>
-		<title>A&E</title>
+		<title>A_E</title>
                 <enclosure url="http://163.172.52.83:8000/live/0479M7HI0f91U2/04090r8T7134WZ/262.ts" />  </item>
 
 <item>
-		<title>C&I</title>
+		<title>C_I</title>
                 <enclosure url="http://163.172.52.83:8000/live/0479M7HI0f91U2/04090r8T7134WZ/341.ts" />  </item>
 
 <item>
@@ -13481,7 +13478,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4330.ts" />  </item>
 
 <item>
-		<title>CRIME & INVESTIGATION</title>
+		<title>CRIME _ INVESTIGATION</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6231.ts" />  </item>
 
 <item>
@@ -13873,7 +13870,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9243.ts" />  </item>
 
 <item>
-		<title>BR: A&E</title>
+		<title>BR: A_E</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9177.ts" />  </item>
 
 <item>
@@ -14421,7 +14418,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10023.ts" />  </item>
 
 <item>
-		<title>ES: A&E</title>
+		<title>ES: A_E</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10032.ts" />  </item>
 
 <item>
@@ -14805,7 +14802,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9419.ts" />  </item>
 
 <item>
-		<title>DE VIP: A&E HD 1080P</title>
+		<title>DE VIP: A_E HD 1080P</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9418.ts" />  </item>
 
 <item>
@@ -15297,7 +15294,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9476.ts" />  </item>
 
 <item>
-		<title>DE: QVC BEAUTY & STYLE HD ( 1080P )</title>
+		<title>DE: QVC BEAUTY _ STYLE HD ( 1080P )</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9475.ts" />  </item>
 
 <item>
@@ -16397,7 +16394,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9707.ts" />  </item>
 
 <item>
-		<title>FR: PLANETE A&E HD</title>
+		<title>FR: PLANETE A_E HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9706.ts" />  </item>
 
 <item>
@@ -16421,7 +16418,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9699.ts" />  </item>
 
 <item>
-		<title>FR: SCIENCES & VIE</title>
+		<title>FR: SCIENCES _ VIE</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9698.ts" />  </item>
 
 <item>
@@ -16801,7 +16798,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9954.ts" />  </item>
 
 <item>
-		<title>IT: Discovery Travel&Living HD</title>
+		<title>IT: Discovery Travel_Living HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9955.ts" />  </item>
 
 <item>
@@ -17433,7 +17430,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10176.ts" />  </item>
 
 <item>
-		<title>USA | A&E HD</title>
+		<title>USA | A_E HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10177.ts" />  </item>
 
 <item>
@@ -18225,7 +18222,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10366.ts" />  </item>
 
 <item>
-		<title>UK | Home & Health</title>
+		<title>UK | Home _ Health</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10367.ts" />  </item>
 
 <item>
@@ -18501,7 +18498,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10500.ts" />  </item>
 
 <item>
-		<title>UK: Crime & Investigiation</title>
+		<title>UK: Crime _ Investigiation</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10478.ts" />  </item>
 
 <item>
@@ -18609,7 +18606,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10516.ts" />  </item>
 
 <item>
-		<title>UK: Home&Health   1</title>
+		<title>UK: Home_Health   1</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10517.ts" />  </item>
 
 <item>
@@ -18833,7 +18830,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10428.ts" />  </item>
 
 <item>
-		<title>UK: Sky Cinema Crime & Thriller HD</title>
+		<title>UK: Sky Cinema Crime _ Thriller HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10427.ts" />  </item>
 
 <item>
@@ -18841,7 +18838,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10426.ts" />  </item>
 
 <item>
-		<title>UK: Sky Cinema Drama & Romance HD</title>
+		<title>UK: Sky Cinema Drama _ Romance HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10425.ts" />  </item>
 
 <item>
@@ -18861,7 +18858,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10539.ts" />  </item>
 
 <item>
-		<title>UK: Sky Cinema Sci-Fi & Horror HD</title>
+		<title>UK: Sky Cinema Sci-Fi _ Horror HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/10422.ts" />  </item>
 
 <item>
@@ -19721,7 +19718,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9823.ts" />  </item>
 
 <item>
-		<title>NL : Film1 Comedy & Kids</title>
+		<title>NL : Film1 Comedy _ Kids</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/9824.ts" />  </item>
 
 <item>
@@ -21133,7 +21130,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/11049.ts" />  </item>
 
 <item>
-		<title>IN : &TV HD</title>
+		<title>IN : _TV HD</title>
                 <enclosure url="http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/11050.ts" />  </item>
 
 <item>
@@ -21959,7 +21956,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
 #EXTM3U
 
 <item>
-		<title>====&BEIN-SPORT&====</title>
+		<title>====_BEIN-SPORT_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3572.ts" />  </item>
 
 <item>
@@ -22263,7 +22260,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5095.ts" />  </item>
 
 <item>
-		<title>====&OSN&====</title>
+		<title>====_OSN_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3573.ts" />  </item>
 
 <item>
@@ -22575,7 +22572,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/4144.ts" />  </item>
 
 <item>
-		<title>====&ARABIC&====</title>
+		<title>====_ARABIC_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3574.ts" />  </item>
 
 <item>
@@ -24327,7 +24324,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7863.ts" />  </item>
 
 <item>
-		<title>====&UK&====</title>
+		<title>====_UK_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3575.ts" />  </item>
 
 <item>
@@ -24551,7 +24548,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7590.ts" />  </item>
 
 <item>
-		<title>UK::Crime & Investigation</title>
+		<title>UK::Crime _ Investigation</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7641.ts" />  </item>
 
 <item>
@@ -24679,7 +24676,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7582.ts" />  </item>
 
 <item>
-		<title>UK::Home&Health</title>
+		<title>UK::Home_Health</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7723.ts" />  </item>
 
 <item>
@@ -24943,7 +24940,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7679.ts" />  </item>
 
 <item>
-		<title>UK::Sky Movies Sci-Fi&Horror</title>
+		<title>UK::Sky Movies Sci-Fi_Horror</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7684.ts" />  </item>
 
 <item>
@@ -25251,7 +25248,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/722.ts" />  </item>
 
 <item>
-		<title>UK-Discovery-Home-&Health</title>
+		<title>UK-Discovery-Home-_Health</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/716.ts" />  </item>
 
 <item>
@@ -25303,7 +25300,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/713.ts" />  </item>
 
 <item>
-		<title>UK-Crime&Investigation-Network</title>
+		<title>UK-Crime_Investigation-Network</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/682.ts" />  </item>
 
 <item>
@@ -25327,7 +25324,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/1220.ts" />  </item>
 
 <item>
-		<title>====&FRANCE&====</title>
+		<title>====_FRANCE_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3579.ts" />  </item>
 
 <item>
@@ -25607,7 +25604,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5344.ts" />  </item>
 
 <item>
-		<title>FR: CHASSE&PECHE</title>
+		<title>FR: CHASSE_PECHE</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5340.ts" />  </item>
 
 <item>
@@ -25699,7 +25696,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5332.ts" />  </item>
 
 <item>
-		<title>FR: SCIENCE&VIE</title>
+		<title>FR: SCIENCE_VIE</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5341.ts" />  </item>
 
 <item>
@@ -26011,7 +26008,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7440.ts" />  </item>
 
 <item>
-		<title>FR::Chasse_&_Peche_HD</title>
+		<title>FR::Chasse___Peche_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7439.ts" />  </item>
 
 <item>
@@ -26207,7 +26204,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7391.ts" />  </item>
 
 <item>
-		<title>====&ITALY&====</title>
+		<title>====_ITALY_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3576.ts" />  </item>
 
 <item>
@@ -26263,7 +26260,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7272.ts" />  </item>
 
 <item>
-		<title>IT::Discovery_Travel_&_Living_HD</title>
+		<title>IT::Discovery_Travel___Living_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7271.ts" />  </item>
 
 <item>
@@ -27235,7 +27232,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5122.ts" />  </item>
 
 <item>
-		<title>IT_Discovery_Travel_&_Living_HD</title>
+		<title>IT_Discovery_Travel___Living_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/5123.ts" />  </item>
 
 <item>
@@ -27427,7 +27424,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/4920.ts" />  </item>
 
 <item>
-		<title>====&DE?GERMANY&====</title>
+		<title>====_DE?GERMANY_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3577.ts" />  </item>
 
 <item>
@@ -27435,7 +27432,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/4675.ts" />  </item>
 
 <item>
-		<title>====&USA&====</title>
+		<title>====_USA_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3578.ts" />  </item>
 
 <item>
@@ -27451,7 +27448,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7837.ts" />  </item>
 
 <item>
-		<title>USA::A&E HD</title>
+		<title>USA::A_E HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/7812.ts" />  </item>
 
 <item>
@@ -27915,7 +27912,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3377.ts" />  </item>
 
 <item>
-		<title>USA_|_A&E_HD</title>
+		<title>USA_|_A_E_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3378.ts" />  </item>
 
 <item>
@@ -28019,7 +28016,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3395.ts" />  </item>
 
 <item>
-		<title>====&TURKY&====</title>
+		<title>====_TURKY_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3580.ts" />  </item>
 
 <item>
@@ -28531,7 +28528,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/4441.ts" />  </item>
 
 <item>
-		<title>====&NETHERLAND&====</title>
+		<title>====_NETHERLAND_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3581.ts" />  </item>
 
 <item>
@@ -28691,7 +28688,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/2988.ts" />  </item>
 
 <item>
-		<title>NL-Film1_Comedy_&_Kids</title>
+		<title>NL-Film1_Comedy___Kids</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/2989.ts" />  </item>
 
 <item>
@@ -28923,7 +28920,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3143.ts" />  </item>
 
 <item>
-		<title>ES:CASA&PESCA</title>
+		<title>ES:CASA_PESCA</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3144.ts" />  </item>
 
 <item>
@@ -28999,7 +28996,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3170.ts" />  </item>
 
 <item>
-		<title>====&EXYU&====</title>
+		<title>====_EXYU_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3583.ts" />  </item>
 
 <item>
@@ -29027,7 +29024,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3177.ts" />  </item>
 
 <item>
-		<title>EXYU_PINK_SCI-FI_&_FANTASY</title>
+		<title>EXYU_PINK_SCI-FI___FANTASY</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3178.ts" />  </item>
 
 <item>
@@ -29091,7 +29088,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3193.ts" />  </item>
 
 <item>
-		<title>EXYU_PINK_CRIME_&_MISTERY</title>
+		<title>EXYU_PINK_CRIME___MISTERY</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3194.ts" />  </item>
 
 <item>
@@ -29119,7 +29116,7 @@ EXTINF:-1,AR:BEIN_SPORTS_1_HD</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3200.ts" />  </item>
 
 <item>
-		<title>====&ALBANIA&====</title>
+		<title>====_ALBANIA_====</title>
                 <enclosure url="http://213.32.6.176:8000/live/fati/fati/3585.ts" />  </item>
 
 <item>
