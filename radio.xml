@@ -2,41 +2,31 @@
 <channel>
 
 
-
-	
                 <item>
 		<title>bein sport 1</title>
                 <enclosure url="http://quraan.us:9980"/>
+<image>
+<url>http://www.widget.com/images/thumb.gif</url>
+</image>
                 </item>
 
- <item>
+
+                <item>
 		<title>bein sport 1</title>
                 <enclosure url="http://quraan.us:9980"/>
+<image>
+<url>http://www.widget.com/images/thumb.gif</url>
+</image>
                 </item>
 
- <item>
-		<title>bein sport 1</title>
-                <enclosure url="http://quraan.us:9980"/>
-                </item>
 
- <item>
-		<title>bein sport 1</title>
-                <enclosure url="http://quraan.us:9980"/>
-                </item>
 
- <item>
+                <item>
 		<title>bein sport 1</title>
                 <enclosure url="http://quraan.us:9980"/>
-                </item>
-
- <item>
-		<title>bein sport 1</title>
-                <enclosure url="http://quraan.us:9980"/>
-                </item>
-
- <item>
-		<title>bein sport 1</title>
-                <enclosure url="http://quraan.us:9980"/>
+<image>
+<url>http://www.widget.com/images/thumb.gif</url>
+</image>
                 </item>
 			
 </channel>
