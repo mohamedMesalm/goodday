@@ -1,9 +1,17 @@
 <rss>
 <channel>
 
-<item> <title>Rotana2</title>
-                <enclosure url="62.210.87.152:8080/live/Etronics_gVA9gq/ikfXfqmX/116.ts" />  </item>
+<item> <title>Rotana3</title>
+                <enclosure url="http://62.210.87.152:8080/live/Etronics_gVA9gq/ikfXfqmX/116.ts" />  </item>
+	
+<item> <title>Rotana3</title>
+                <enclosure url="http://62.210.87.152:8080/live/Etronics_gVA9gq/ikfXfqmX/116.m3u" />  </item>
 
+	
+	<item> <title>Rotana3</title>
+                <enclosure url="http://62.210.87.152:8080/live/Etronics_gVA9gq/ikfXfqmX/116.m3u8" />  </item>
+
+	
 	
 <item> <title>3gp</title>
                 <enclosure url="http://techslides.com/demos/sample-videos/small.3gp" />  </item>
