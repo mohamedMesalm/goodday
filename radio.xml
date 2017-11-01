@@ -11,7 +11,7 @@
                 <item>
 		<title> radio cairo</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
-                <link>http://soundofsakia.serverroom.us:4896/live</link>    
+                <link>http://soundofsakia.serverroom.us:4896/live?type=.mp3</link>    
 	        </item>
 
                 <item>
