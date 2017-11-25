@@ -8,6 +8,14 @@
                 <link>http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8</link>    
 	        </item>
 
+	
+                <item>
+		<title>bein sport 1</title>
+                <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
+                <link>http://selevision9876-i.akamaihd.net/hls/live/219113/98765/2.m3u8</link>    
+	        </item>
+
+	
                 <item>
 		<title> radio cairo</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
