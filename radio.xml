@@ -13,7 +13,7 @@
 		<title>bein sport 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
                 <link>
-http://185.21.217.34:7071/boxnew/MBC2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNyA4OjMxOjM0IEFNJmhhc2hfdmFsdWU9dmU5SHVlTFFDaEtNbmVtcElMeVFvUT09JnZhbGlkbWludXRlcz0y</link>    
+rtsp://192.168.1.8:1935/live/myStream</link>    
 	        </item>
 
 	
