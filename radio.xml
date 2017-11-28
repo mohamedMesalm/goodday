@@ -12,13 +12,13 @@
                 <item>
 		<title>bein sport 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>http://192.168.1.2:1935/vod/mp4:sample.mp4/playlist.m3u8</link>    
+                <link>http://10.42.0.1:1935/live/test.stream/playlist.m3u8?DVR</link>    
 	        </item>
 
 	 <item>
 		<title>bein sport 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>rtsp://10.42.0.1:1935/live/test.stream</link>    
+                <link>http://10.42.0.1:1935/live/test.stream/playlist.m3u8</link>    
 	        </item>
 
 	
