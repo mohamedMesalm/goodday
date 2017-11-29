@@ -9,37 +9,68 @@
 
 	
                 <item>
-		<title>bein sport 2</title>
+		<title>,Rotana Aflam</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
                 <link>http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8</link>    
 	        </item>
 
 	
 	        <item>
-		<title>bein sport 3</title>
+		<title>Nile Cinema</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>http://prod.proserver300.com:8080/live/Eko/Eko/8091.ts</link>    
+                <link>http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8</link>    
 	        </item>
 	
 	        <item>
 		<title>bein sport 4</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>http://prod.proserver300.com:8080/live/Eko/Eko/8091.m3u</link>    
+                <link>http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8</link>    
 	        </item>
 
 	
                 <item>
-		<title> bein sport 5</title>
+		<title> Cinema 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
                 <link>http://prod.proserver300.com:8080/live/Eko/Eko/8091.mp4</link>    
 	        </item>
 
                 <item>
-		<title>bein sport 1</title>
+		<title>Cima Habisha TV</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
-                <link> http://quraan.us:9980</link>    
+                <link>http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8</link>    
 	        </item>
 
+	 <item>
+		<title>Toktok Cinema</title>
+                <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
+                <link>http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8</link>    
+	        </item>
+
+	 <item>
+		<title>Melody Aflam</title>
+                <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
+                <link>http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8</link>    
+	        </item>
+
+	 <item>
+		<title>Moga Comedy</title>
+                <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
+                <link>http://38.99.146.37:7777/MogaComedy_HD.m3u8</link>    
+	        </item>
+
+	<item>
+		<title>Time Film</title>
+                <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
+                <link>http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8</link>    
+	        </item>
+
+	<item>
+		<title>,Al Hiwar TV</title>
+                <enclosure url="https://cdn.webrad.io/images/logos/ieradio-org/rte-radio-1-88-5-fm.png"/>
+                <link>http://origin-l.glb.mncdn.com/alhiwar_live/smil:alhiwar.smil/gmswf.m3u8?v=1356359302</link>    
+	        </item>
+
+	
 </channel>
 </rss>
 
