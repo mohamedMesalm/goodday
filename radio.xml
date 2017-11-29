@@ -12,20 +12,20 @@
                 <item>
 		<title>bein sport 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>rtsp://10.42.0.1:1935/live/123.stream</link>    
+                <link>rtsp://10.42.0.1:1935/live/video.stream</link>    
 	        </item>
 
 	
 	 <item>
 		<title>bein sport 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>http://10.42.0.1:1935/live/123.stream/playlist.m3u8</link>    
+                <link>http://10.42.0.1:1935/live/video.stream/playlist.m3u8</link>    
 	        </item>
 
 	 <item>
 		<title>bein sport 1</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>http://10.42.0.1:1935/live/123.stream/playlist.m3u8?DVR</link>    
+                <link>http://10.42.0.1:1935/live/video.stream/playlist.m3u8?DVR</link>    
 	        </item>
 
 	
