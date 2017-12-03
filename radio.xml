@@ -2,9 +2,9 @@
 <channel>
 
                 <item>
-		<title>ios1</title>
+		<title>wowza</title>
                 <enclosure url="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-rebelde-96-70-fm.png"/>
-                <link>http://10.42.0.1:1935/live/lolo.stream/playlist.m3u8?DVR</link>    
+                <link>http%3A%2F%2Fmedia.smc-host.com%3A1935%2Fredirect%2Falhorreya.tv%2Falhorreya.smil%3Fscheme%3Dm3u8</link>    
 	        </item>
 	
 	<item>
