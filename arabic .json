@@ -1,5 +1,6 @@
+
 {
-  "tvdata" : [ {
+  "arabicnews" : [ {
 
     "id" : "1",
     "name" : "=======>   Arab Countries   <=======",
@@ -266,7 +267,7 @@
 
 {
     "id" : "1",
-    "name" : "AD Sports 5 HD" ,"AR: AD Sports 5 HD" , 
+    "name" : "AD Sports 5 HD" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -278,7 +279,7 @@
 
 {
     "id" : "1",
-    "name" : "AD Sports 4 HD" ,"AR: AD Sports 4 HD" , 
+    "name" : "AD Sports 4 HD" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
