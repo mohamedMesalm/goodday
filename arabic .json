@@ -814,7 +814,7 @@
 
 {
     "id" : "1",
-    "name" : "AR : OSN TLC HD" , group-title="ARABIC",AR : OSN TLC HD
+    "name" : "AR : OSN TLC HD" , 
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -826,7 +826,7 @@
 
 {
     "id" : "1",
-    "name" : "AR : OSN SyFy HD" , group-title="ARABIC",AR : OSN SyFy HD
+    "name" : "AR : OSN SyFy HD" , 
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -838,7 +838,7 @@
 
 {
     "id" : "1",
-    "name" : "AR : OSN OSN SPORT FIGHTNETWORK" , group-title="ARABIC",AR : OSN OSN SPORT FIGHTNETWORK
+    "name" : "AR : OSN OSN SPORT FIGHTNETWORK" , 
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -1342,7 +1342,7 @@
 
 {
     "id" : "1",
-    "name" : "OSN Sports Cricket HD" ,"AR : OSN CRICKET HD" ,
+    "name" : "OSN Sports Cricket HD" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -1678,7 +1678,7 @@
 
 {
     "id" : "1",
-    "name" : "MBC PRO SPORTS 2 ARB" ,"AR : MBC Pro Sports 2HD" ,
+    "name" : "MBC PRO SPORTS 2 ARB" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -1690,7 +1690,7 @@
 
 {
     "id" : "1",
-    "name" : "MBC PRO SPORTS 1 ARB" ,"AR : MBC Pro Sports 1HD" , 
+    "name" : "MBC PRO SPORTS 1 ARB" , 
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -2455,7 +2455,7 @@
 
 {
     "id" : "1",
-    "name" : "KR: Ishtar TV",KR: Ishtar TV
+    "name" : "KR: Ishtar TV",
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -2695,7 +2695,7 @@
 
 {
     "id" : "1",
-    "name" : "VIP AR: OSN NEWS HD" , group-title="ARABIC",VIP AR: OSN NEWS HD
+    "name" : "VIP AR: OSN NEWS HD" , 
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -3724,7 +3724,7 @@
 
 {
     "id" : "1",
-    "name" : "MBC 1 ARB" ,"AR: MBC 1 HD" , 
+    "name" : "MBC 1 ARB" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -3988,7 +3988,7 @@
 
 {
     "id" : "1",
-    "name" : "OSN Sports 1 HD" ,"AR: OSN Sports 1 HD" , 
+    "name" : "OSN Sports 1 HD" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -4012,7 +4012,7 @@
 
 {
     "id" : "1",
-    "name" : "OSN Sports 3 HD" ,"AR: OSN Sports 3 HD" , 
+    "name" : "OSN Sports 3 HD" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -4024,7 +4024,7 @@
 
 {
     "id" : "1",
-    "name" : "OSN Sports 4 HD" ,"AR: OSN Sports 4 HD" , 
+    "name" : "OSN Sports 4 HD" ,
 
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
@@ -4779,7 +4779,7 @@
 
 {
     "id" : "1",
-    "name" : "VIP OSN: MTV LIVE HD ( 1080P )"
+    "name" : "VIP OSN: MTV LIVE HD ( 1080P )",
 "image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
     "type" : "",
     "quality" : "",
