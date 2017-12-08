@@ -538,11 +538,11 @@
       },
       {
          "id":"1",
-         "name":" DMC Sports",
+         "name":" DDMC Sports",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
-         "url":"clientportal.link:8080/live/BhhxSjx99/yvAc5y20/7062.ts"
+         "url":"http://clientportal.link:8080/live/BhhxSjx99/yvAc5y20/15879.m3u8"
       }
    ]
 }
