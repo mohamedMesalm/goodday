@@ -1,195 +1,148 @@
-
 {
-          "ardocumentary": [
-            
-{
-    "id" : "1",
-    "name" : " Al Jazeera Documentary",
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1001.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Abu Dhabi Nat Geo" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3384.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN National Geo HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6698.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : "VIP  OSN National Geo People HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6699.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Discovery Science" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3382.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Discovery I.D" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3375.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Discovery HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6703.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Discovery ID HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6704.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Discovery Science HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6705.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN DISCOVERY FAMILY HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4351.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Fine Living HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5436.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  Bein Travel HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6000.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Travel Channel HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4352.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN Nat Geo Wild" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3383.ts"
-  }, 
-{
-    "id" : "1",
-    "name" : " OSN Nat Geo People HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4353.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Nat Geo HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4354.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN Animal Planet" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3393.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN National Geo Wild HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6964.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Discovery Family HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6967.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : "VIP  OSN Travel Channel HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6966.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " NationalGeo AD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-   "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1004.ts"
-  }
-
-
-        ]
-    }
+   "ardocumentary":[
+      {
+         "id":"1",
+         "name":" Al Jazeera Documentary",
+         "image":"",
+         "group":"",
+         "quality":"",
+         "type":" Al Jazeera Documentary",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1001.ts"
+      },
+      {
+         "id":"1",
+         "name":"  Abu Dhabi Nat Geo",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Abu Dhabi Nat Geo",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3384.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN National Geo HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN National Geo HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6698.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN National Geo People HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN National Geo People HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6699.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Discovery Science HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Discovery Science HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6705.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Discovery I.D",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Discovery I.D",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3375.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Discovery HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Discovery HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6703.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Discovery ID HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Discovery ID HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6704.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Nat Geo Wild",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Nat Geo Wild",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3383.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Nat Geo People HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Nat Geo People HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4353.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Nat Geo HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Nat Geo HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4354.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Animal Planet",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Animal Planet",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3393.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN National Geo Wild HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN National Geo Wild HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6964.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Discovery Family HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Discovery Family HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6967.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Travel Channel HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Travel Channel HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6966.ts"
+      },
+      {
+         "id":"1",
+         "name":" NationalGeo AD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" NationalGeo AD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1004.ts"
+      }
+   ]
+}

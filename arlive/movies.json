@@ -1,892 +1,750 @@
-
-       { "armoviese": [
-                  
 {
-    "id" : "1",
-    "name" : "VIP  BeIN Movies 1HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6608.ts"
-  }, 
-
-{
-
-    "id" : "1",
-    "name" : "VIP  BeIN Movies 2HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6609.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  BeIN Movies 3HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6610.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  BeIN Movies 4HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6611.ts"
-
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " BEIN MOVIES 1HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/506.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " BEIN MOVIES 2HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/507.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " BEIN MOVIES 3 HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/508.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " BEIN MOVIES 4 HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4612.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6713.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies 2 HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6717.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Action HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6706.ts"
-
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Action 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6707.ts"
-  }, 
- 
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Family HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6711.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Comedy HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6708.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Priemer HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6716.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Prem 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6715.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Drama HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6710.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN MOVIES DRAMA 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6709.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP  OSN Movies Festival HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6712.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Movies HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4364.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Movies 2 HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4361.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN MOVIES PREMIERE HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/996.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Movies Premiere 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3380.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN Movies Premiere 2HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1480.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Action" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3392.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Action 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3377.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Movies Festival" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3369.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN MOVIES ACTION HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/987.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Movies Action  2 HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4367.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Movies Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/986.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN MOVIE COMEDY HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/998.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Star Movies HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4371.ts"
-  }, 
-
-  
-{
-
-    "id" : "1",
-    "name" : "VIP: OSN Fox Movies HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6173.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN FX HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6172.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Mousalsalat" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5440.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Musalsalat" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6145.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN MusalSat" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6146.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : "VIP: OSN SYFY HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6167.ts"
-  }, 
-
-  
-{
-    "id" : "1",
-    "name" : "VIP: OSN Ya Hala" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6140.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Ya Hala 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6141.ts"
-  }, 
-
-
-{
-    "id" : "1",
-    "name" : " OSN Yahala Cinema" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4357.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Ya Hala Cinema" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6144.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Yahala Drama HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4356.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Ya Hala Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6142.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Ya Hala Shabab" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6143.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN Cinema 1" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5404.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Cinema 1" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6135.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : "VIP: OSN Cinema 2" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6136.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "VIP: OSN Comedy Central HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6166.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " dmc DRAMA HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7445.ts"
-},
-
-{
-    "id" : "1",
-    "name" : " MBC MASR" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/539.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC Masr" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1044.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "MBC DRAMA" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/538.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " MBC Drama HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4056.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC Dramar +" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5817.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC BOLLYWOOD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6793.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " OSN MBC Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3371.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN MBC Plus Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3373.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC1" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/536.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/537.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC 2 HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4060.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC 4" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/2502.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC 4 HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4058.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC ACTION" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/540.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " MBC Action HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4057.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " MBC Max HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4055.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " MBC Variety HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4054.ts"
-  },
-  
-{
-    "id" : "1",
-    "name" : "B4U-AFLAM" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1013.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Nile Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6334.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " ART CINEMA" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/978.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " ART HEKAYAT 1" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/981.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " ART HEKAYAT 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6036.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Art Hekayat 1" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3379.ts"
-  },
-
-{
-    "id" : "1",
-    "name" : " ART AFLAM 1" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/979.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " ART AFLAM 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/980.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN Art Aflam 2" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3378.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " OSN B4U Aflam" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5438.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Rotana Cinema" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1005.ts"
-  }, 
-{
-    "id" : "1",
-    "name" : " Rotana Cinema HD" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5505.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " Rotana Classic HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5504.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Rotana Aflam HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5506.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " SYRIA DRAMA" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6520.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " SeeVii Drama HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7469.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " CBC Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1021.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " NILE COMEDY" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6332.ts"
-  }, 
-  
-{
-    "id" : "1",
-    "name" : " Nile Drama" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6334.ts"
-  },
-
-{
-    "id" : "1",
-    "name" : " Nile Cinema" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6331.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "Panorama-Film" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1007.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : "Panorama-Comedy" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1010.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " NILE CINEMA" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1012.ts"
-  },
-  
-{
-    "id" : "1",
-    "name" : " MOGA-comedy" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1011.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Rotana Masria" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/551.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Rotana Masriah HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5502.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " ROTANA KHALIJIAH" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1505.ts"
-  }, 
-{
-    "id" : "1",
-    "name" : " Rotana Khalijiah HD" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5503.ts"
-},
-
-{
-    "id" : "1",
-    "name" : " BEUR TV" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6618.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " ZEE AFLAM" ,
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1009.ts"
-  }, 
-
-{
-    "id" : "1",
-    "name" : " Zee Alwan" , 
-"image" : "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-    "type" : "",
-    "quality" : "",
-    "url" : "http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1503.ts"
-  }
-
-        ]
+   "armoviese":[
+      {
+         "id":"1",
+         "name":"VIP  BeIN Movies 1HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  BeIN Movies 1HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6608.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  BeIN Movies 2HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  BeIN Movies 2HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6609.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  BeIN Movies 3HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  BeIN Movies 3HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6610.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  BeIN Movies 4HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  BeIN Movies 4HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6611.ts"
+      },
+      {
+         "id":"1",
+         "name":"  BEIN MOVIES 1HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" BEIN MOVIES 1HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/506.ts"
+      },
+      {
+         "id":"1",
+         "name":"  BEIN MOVIES 2HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" BEIN MOVIES 2HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/507.ts"
+      },
+      {
+         "id":"1",
+         "name":" BEIN MOVIES 3 HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" BEIN MOVIES 3 HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/508.ts"
+      },
+      {
+         "id":"1",
+         "name":" BEIN MOVIES 4 HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" BEIN MOVIES 4 HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4612.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6713.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies 2 HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies 2 HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6717.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Action HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Action HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6706.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Action 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Action 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6707.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Family HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Family HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6711.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Comedy HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Comedy HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6708.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Priemer HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Priemer HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6716.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Prem 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Prem 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6715.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Drama HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Drama HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6710.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Dram 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN MOVIES DRAMA 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6709.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP  OSN Movies Festival HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP  OSN Movies Festival HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6712.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4364.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies 2 HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies 2 HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4361.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Premiere HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN MOVIES PREMIERE HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/996.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Premiere 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies Premiere 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3380.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Premiere 2HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies Premiere 2HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1480.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Action",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Action",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3392.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Action 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Action 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3377.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Festival",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies Festival",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3369.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Action HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN MOVIES ACTION HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/987.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Action  2 HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies Action  2 HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4367.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Drama",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Movies Drama",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/986.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN MOVIE COMEDY HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN MOVIE COMEDY HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/998.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Star Movies HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Star Movies HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4371.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Fox Movies HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Fox Movies HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6173.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN FX HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN FX HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6172.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Mousalsalat",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Mousalsalat",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5440.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN SYFY HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN SYFY HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6167.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Ya Hala",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Ya Hala",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6140.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Ya Hala 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Ya Hala 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6141.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Yahala Cinema",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Yahala Cinema",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4357.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Ya Hala Cinema",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Ya Hala Cinema",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6144.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN OSN Yahala Drama HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN OSN Yahala Drama HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4356.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Ya Hala Drama",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Ya Hala Drama",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6142.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Ya Hala Shabab",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Ya Hala Shabab",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6143.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Cinema 1",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Cinema 1",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6135.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Cinema 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Cinema 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6136.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP: OSN Comedy Central HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP: OSN Comedy Central HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6166.ts"
+      },
+      {
+         "id":"1",
+         "name":" dmc DRAMA HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" dmc DRAMA HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7445.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC Masr",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC Masr",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1044.ts"
+      },
+      {
+         "id":"1",
+         "name":"MBC DRAMA",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"MBC DRAMA",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/538.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC Drama HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC Drama HD ",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4056.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC Dramar +",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC Dramar +",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5817.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC BOLLYWOOD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC BOLLYWOOD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6793.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC1",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC1",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/536.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/537.ts"
+      },
+      {
+         "id":"1",
+         "name":"  MBC 4",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC 4",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/2502.ts"
+      },
+      {
+         "id":"1",
+         "name":"  MBC Action",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC Action",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/2499.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC MAX",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC MAX",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/2501.ts"
+      },
+      {
+         "id":"1",
+         "name":" MBC Variety HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MBC Variety HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/4054.ts"
+      },
+      {
+         "id":"1",
+         "name":"AR:B4U-AFLAM",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"B4U-AFLAM",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1013.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN B4U Aflam",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN B4U Aflam",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5438.ts"
+      },
+      {
+         "id":"1",
+         "name":" Nile Drama",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Nile Drama",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6334.ts"
+      },
+      {
+         "id":"1",
+         "name":" ART CINEMA",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" ART CINEMA",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/978.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Art Hekayat 1",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" OSN Art Hekayat 1",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/3379.ts"
+      },
+      {
+         "id":"1",
+         "name":" ART HEKAYAT 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" ART HEKAYAT 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6036.ts"
+      },
+      {
+         "id":"1",
+         "name":" ART AFLAM 1",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" ART AFLAM 1",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/979.ts"
+      },
+      {
+         "id":"1",
+         "name":" ART AFLAM 2",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" ART AFLAM 2",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/980.ts"
+      },
+      {
+         "id":"1",
+         "name":" Rotana Cinema",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Rotana Cinema",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1005.ts"
+      },
+      {
+         "id":"1",
+         "name":" Rotana Cinema HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Rotana Cinema HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5505.ts"
+      },
+      {
+         "id":"1",
+         "name":" Rotana Aflam HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Rotana Aflam HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5506.ts"
+      },
+      {
+         "id":"1",
+         "name":" Rotana Classic HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Rotana Classic HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/5504.ts"
+      },
+      {
+         "id":"1",
+         "name":" SYRIA DRAMA",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" SYRIA DRAMA",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6520.ts"
+      },
+      {
+         "id":"1",
+         "name":" SeeVii Drama HD",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" SeeVii Drama HD",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7469.ts"
+      },
+      {
+         "id":"1",
+         "name":" CBC Drama",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" CBC Drama",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1021.ts"
+      },
+      {
+         "id":"1",
+         "name":" NILE COMEDY",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" NILE COMEDY",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6332.ts"
+      },
+      {
+         "id":"1",
+         "name":" Nile Drama",
+         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "type":"",
+         "quality":"",
+         "url":"http://iptvfree1.com:6969/live/mohamed.mesalm3@gmail.com/WCLdNQLcxO/6334.ts"
+      },
+      {
+         "id":"1",
+         "name":" Nile Cinema",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Nile Cinema",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6331.ts"
+      },
+      {
+         "id":"1",
+         "name":"Panorama-Film",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"Panorama-Film",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1007.ts"
+      },
+      {
+         "id":"1",
+         "name":"Panorama-Comedy",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"Panorama-Comedy",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1010.ts"
+      },
+      {
+         "id":"1",
+         "name":" NILE CINEMA",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" NILE CINEMA",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1012.ts"
+      },
+      {
+         "id":"1",
+         "name":" MOGA-comedy",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" MOGA-comedy",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1011.ts"
+      },
+      {
+         "id":"1",
+         "name":" Rotana Masria",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Rotana Masria",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/551.ts"
+      },
+      {
+         "id":"1",
+         "name":"  ZEE AFLAM",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" ZEE AFLAM",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1009.ts"
+      },
+      {
+         "id":"1",
+         "name":"  Zee Alwan",
+         "image":"",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" Zee Alwan",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/1503.ts"
+      }
+   ]
 }
