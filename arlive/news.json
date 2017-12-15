@@ -2,7 +2,7 @@
    "arnews":[
       {
          "id":"1",
-         "name":"AR: Al Jazeera Mubasher",
+         "name":"Al Jazeera Mubasher",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -10,7 +10,7 @@
       },
       {
          "id":"1",
-         "name":"AR:AlJazerra",
+         "name":"AlJazerra",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -18,7 +18,7 @@
       },
       {
          "id":"1",
-         "name":" Al Jazeera English",
+         "name":"Al Jazeera English",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -26,7 +26,7 @@
       },
       {
          "id":"1",
-         "name":"AR: TRT Arabic",
+         "name":"TRT Arabic",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -34,7 +34,7 @@
       },
       {
          "id":"1",
-         "name":" OSN Fox News HD",
+         "name":"OSN Fox News HD",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -42,7 +42,7 @@
       },
       {
          "id":"1",
-         "name":" OSN  SKY NEWS",
+         "name":"OSN  SKY NEWS",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -50,7 +50,7 @@
       },
       {
          "id":"1",
-         "name":" OSN France 24",
+         "name":"OSN France 24",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -58,7 +58,7 @@
       },
       {
          "id":"1",
-         "name":" France 24 AR",
+         "name":"France 24 AR",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -66,7 +66,7 @@
       },
       {
          "id":"1",
-         "name":" Al Sharqiya News",
+         "name":"Al Sharqiya News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -74,15 +74,15 @@
       },
       {
          "id":"1",
-         "name":"VIP  OSN NEWS HD",
+         "name":"OSN NEWS HD",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"VIP",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7143.ts"
       },
       {
          "id":"1",
-         "name":" NILE NEWS",
+         "name":"NILE NEWS",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -90,7 +90,7 @@
       },
       {
          "id":"1",
-         "name":" Numidia News TV",
+         "name":"Numidia News TV",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -98,15 +98,15 @@
       },
       {
          "id":"1",
-         "name":"VIP  OSN Fox News",
+         "name":"OSN Fox News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"VIP",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6853.ts"
       },
       {
          "id":"1",
-         "name":" Sky News Arabic",
+         "name":"Sky News Arabic",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -114,7 +114,7 @@
       },
       {
          "id":"1",
-         "name":" Syria News",
+         "name":"Syria News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -122,7 +122,7 @@
       },
       {
          "id":"1",
-         "name":" OSN NEWS",
+         "name":"OSN NEWS",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -130,7 +130,7 @@
       },
       {
          "id":"1",
-         "name":" OSN BBC FIRST HD",
+         "name":"OSN BBC FIRST HD",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -138,15 +138,15 @@
       },
       {
          "id":"1",
-         "name":"VIP  OSN BBC First",
+         "name":"OSN BBC First",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"VIP",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6240.ts"
       },
       {
          "id":"1",
-         "name":" OSN CNBC ARABIA",
+         "name":"OSN CNBC ARABIA",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -154,15 +154,15 @@
       },
       {
          "id":"1",
-         "name":"VIP  OSN CNN",
+         "name":"OSN CNN",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"VIP",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/6505.ts"
       },
       {
          "id":"1",
-         "name":" Al Quds",
+         "name":"Al Quds",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -170,7 +170,7 @@
       },
       {
          "id":"1",
-         "name":"  Al Alam",
+         "name":"Al Alam",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -178,7 +178,7 @@
       },
       {
          "id":"1",
-         "name":"  Al-Manar",
+         "name":"Al-Manar",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -186,7 +186,7 @@
       },
       {
          "id":"1",
-         "name":"  Al arabia Alhadath",
+         "name":"Al arabia Alhadath",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -194,7 +194,7 @@
       },
       {
          "id":"1",
-         "name":" AL Hadath",
+         "name":"AL Hadath",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -202,7 +202,7 @@
       },
       {
          "id":"1",
-         "name":" NBN Lebanon",
+         "name":"NBN Lebanon",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -210,7 +210,7 @@
       },
       {
          "id":"1",
-         "name":" Al Arabiya",
+         "name":"Al Arabiya",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -218,7 +218,7 @@
       },
       {
          "id":"1",
-         "name":" DzairNews",
+         "name":"DzairNews",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -226,7 +226,7 @@
       },
       {
          "id":"1",
-         "name":" Al Iraqia News",
+         "name":"Al Iraqia News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -234,7 +234,7 @@
       },
       {
          "id":"1",
-         "name":" Free Syria",
+         "name":"Free Syria",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -242,7 +242,7 @@
       },
       {
          "id":"1",
-         "name":" Libya News",
+         "name":"Libya News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -250,7 +250,7 @@
       },
       {
          "id":"1",
-         "name":" Echorouk News",
+         "name":"Echorouk News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
@@ -258,7 +258,7 @@
       },
       {
          "id":"1",
-         "name":"  ekhbariya tv",
+         "name":"ekhbariya tv",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
          "type":"",
          "quality":"",
