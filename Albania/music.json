@@ -1,6 +1,6 @@
-{ "albaniamusic" : [
-
- {
+{
+   "albaniamusic":[
+      {
          "id":"1",
          "name":"Zjarr TV",
          "image":"",
@@ -9,7 +9,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3461.ts"
       },
-	  {
+      {
          "id":"1",
          "name":"First TV",
          "image":"",
@@ -18,7 +18,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3469.ts"
       },
-	     {
+      {
          "id":"1",
          "name":"Alb Music HD",
          "image":"",
@@ -27,7 +27,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/16501.ts"
       },
-	    {
+      {
          "id":"1",
          "name":"Folk",
          "image":"",
@@ -36,8 +36,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/16499.ts"
       },
-   
-	     {
+      {
          "id":"1",
          "name":"Music AL",
          "image":"",
@@ -46,7 +45,5 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/16500.ts"
       }
-
-]
-
+   ]
 }
