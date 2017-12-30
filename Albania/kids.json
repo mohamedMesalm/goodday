@@ -1,6 +1,6 @@
-{ "albaniakids" : [
-
-  {
+{
+   "albaniakids":[
+      {
          "id":"1",
          "name":"IN Cine Mania TV",
          "image":"",
@@ -9,7 +9,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3470.ts"
       },
-	   {
+      {
          "id":"1",
          "name":"RTV 21 Junior",
          "image":"",
@@ -18,7 +18,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3466.ts"
       },
-	   {
+      {
          "id":"1",
          "name":"Cufo",
          "image":"",
@@ -27,7 +27,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3425.ts"
       },
-	    {
+      {
          "id":"1",
          "name":"ALB ANIME",
          "image":"",
@@ -36,7 +36,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3427.ts"
       },
-	   {
+      {
          "id":"1",
          "name":"TRING TRING",
          "image":"",
@@ -44,7 +44,6 @@
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/2122.ts"
-      },
-]
-
+      }
+   ]
 }
