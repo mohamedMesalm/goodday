@@ -1,5 +1,6 @@
-{ "albaniadocumentary" : [
-    {
+{
+   "albaniadocumentary":[
+      {
          "id":"1",
          "name":"National Geographic",
          "image":"",
@@ -17,7 +18,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3407.ts"
       },
-  {
+      {
          "id":"1",
          "name":"Sky Shkence",
          "image":"",
@@ -26,7 +27,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3440.ts"
       },
-	  {
+      {
          "id":"1",
          "name":"NATIONAL GEOGRAPHIC",
          "image":"",
@@ -35,8 +36,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3430.ts"
       },
-	  
-	   {
+      {
          "id":"1",
          "name":"Explorer Shkenc",
          "image":"",
@@ -45,7 +45,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3432.ts"
       },
-	    {
+      {
          "id":"1",
          "name":"Explorer Natyra",
          "image":"",
@@ -54,7 +54,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3433.ts"
       },
-	   {
+      {
          "id":"1",
          "name":"EXP HISTORI",
          "image":"",
@@ -63,7 +63,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/2144.ts"
       },
-	    {
+      {
          "id":"1",
          "name":"Tring World",
          "image":"",
@@ -72,7 +72,7 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3394.ts"
       },
-	   {
+      {
          "id":"1",
          "name":"Tring Planet",
          "image":"",
@@ -80,8 +80,6 @@
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/3398.ts"
-      },
-
-]
-
+      }
+   ]
 }
