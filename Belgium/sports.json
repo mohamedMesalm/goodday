@@ -1,44 +1,40 @@
-{  "belgiumsports":  [
-
-
 {
-"id":"1",
- "name":"Voo Sport 1" ,
-"image":"" ,
- "group":"Belgium",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7709.ts"
-},
-{
-"id":"1",
- "name":"VOO SPORT 1 HD" ,
-"image":"" ,
- "group":"Belgium",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/9188.ts"
-},
-{
-"id":"1",
- "name":"VOOsport 2" ,
-"image":"" ,
- "group":"Belgium",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/9187.ts"
-},
-
-
-{
-"id":"1",
- "name":"VOOsport 4" ,
-"image":"" ,
- "group":"Belgium",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/9186.ts"
-}
-
-]
+   "belgiumsports":[
+      {
+         "id":"1",
+         "name":"Voo Sport 1",
+         "image":"",
+         "group":"Belgium",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/7709.ts"
+      },
+      {
+         "id":"1",
+         "name":"VOO SPORT 1 HD",
+         "image":"",
+         "group":"Belgium",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/9188.ts"
+      },
+      {
+         "id":"1",
+         "name":"VOOsport 2",
+         "image":"",
+         "group":"Belgium",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/9187.ts"
+      },
+      {
+         "id":"1",
+         "name":"VOOsport 4",
+         "image":"",
+         "group":"Belgium",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/chresteen@tm2mail.com/qXGTA2Q3Rh/9186.ts"
+      }
+   ]
 }
