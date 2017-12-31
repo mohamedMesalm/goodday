@@ -1,400 +1,1334 @@
-{  "australia ": 
-       [
 {
-"id":"1",
- "name":"ABC News" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9089.ts"
-},
-{
-"id":"1",
- "name":"ACCTV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9088.ts"
-},
-{
-"id":"1",
- "name":"ATV 1 FHD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9109.ts"
-},
-{
-"id":"1",
- "name":"ATV 2 HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9108.ts"
-},
-{
-"id":"1",
- "name":"AUTRIA-24 TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9063.ts"
-},
-{
-"id":"1",
- "name":"BLK Regional" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9103.ts"
-},
-{
-"id":"1",
- "name":"Donau TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9102.ts"
-},
-{
-"id":"1",
- "name":"Food Network" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9087.ts"
-},
-{
-"id":"1",
- "name":"Fox Footy Australia" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"Offline",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9086.ts"
-},
-{
-"id":"1",
- "name":"Fox League" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"Offline",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9085.ts"
-},
-{
-"id":"1",
- "name":"Fox Sport News" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9084.ts"
-},
-{
-"id":"1",
- "name":"KroneHits" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9062.ts"
-},
-{
-"id":"1",
- "name":"M4 TV Mostviertel" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9112.ts"
-},
-{
-"id":"1",
- "name":"Motor Racing" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9116.ts"
-},
-{
-"id":"1",
- "name":"OKTO TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9113.ts"
-},
-{
-"id":"1",
- "name":"ORF 1 HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9107.ts"
-},
-{
-"id":"1",
- "name":"ORF 2 HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9106.ts"
-},
-{
-"id":"1",
- "name":"ORF 3 HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"  ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9105.ts"
-},
-{
-"id":"1",
- "name":"PULS 4" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9110.ts"
-},
-{
-"id":"1",
- "name":"Racing.com" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9083.ts"
-},
-{
-"id":"1",
- "name":"RTS " ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9114.ts"
-},
-{
-"id":"1",
- "name":"SBS" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9115.ts"
-},
-{
-"id":"1",
- "name":"ServusTV HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9104.ts"
-},
-{
-"id":"1",
- "name":"Sky 1 Racing" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9081.ts"
-},
-{
-"id":"1",
- "name":"Sky 2 Racing" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9080.ts"
-},
-{
-"id":"1",
- "name":"Sky Thorughbred Central" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"  ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9082.ts"
-},
-{
-"id":"1",
- "name":"Sued Tirol " ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9064.ts"
-},
-{
-"id":"1",
- "name":"Tirol TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9111.ts"
-},
-{
-"id":"1",
- "name":"TVA" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9101.ts"
-},
-{
-"id":"1",
- "name":"W24" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"AT",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9065.ts"
-},
-{
-"id":"1",
- "name":"11 HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9070.ts"
-},
-{
-"id":"1",
- "name":"3NEWS" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"NZ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9076.ts"
-},
-{
-"id":"1",
- "name":"7 TWO" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9074.ts"
-},
-{
-"id":"1",
- "name":"African Amara AU" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9079.ts"
-},
-{
-"id":"1",
- "name":"Australia National TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9066.ts"
-},
-{
-"id":"1",
- "name":"Channel 2" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9068.ts"
-},
-{
-"id":"1",
- "name":"Channel 31 Melbourne" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"  ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9067.ts"
-},
-{
-"id":"1",
- "name":"Channel 7" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9072.ts"
-},
-{
-"id":"1",
- "name":"OZI Indian TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"  ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9075.ts"
-},
-{
-"id":"1",
- "name":"Shine TV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9077.ts"
-},
-{
-"id":"1",
- "name":"Talking Lifestyle" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9071.ts"
-},
-{
-"id":"1",
- "name":"TEN HD" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9069.ts"
-},
-{
-"id":"1",
- "name":"UTV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9073.ts"
-},
-{
-"id":"1",
- "name":"WTV" ,
-"image":"" ,
- "group":"AU",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9078.ts"
-}
-]
+   "africa":[
+      {
+         "id":"1",
+         "name":"2STV",
+         "image":"",
+         "group":"Africa",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/6804.ts"
+      },
+      {
+         "id":"1",
+         "name":"Cine Plus Africa",
+         "image":"",
+         "group":"Africa",
+         "quality":"",
+         "type":"Ghana",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/6808.ts"
+      },
+      {
+         "id":"1",
+         "name":"Diaspora24",
+         "image":"",
+         "group":"Africa",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/6807.ts"
+      },
+      {
+         "id":"1",
+         "name":"Rave TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4328.ts"
+      },
+      {
+         "id":"1",
+         "name":"ZTV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Ghana",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4312.ts"
+      },
+      {
+         "id":"1",
+         "name":"ORTM TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4329.ts"
+      },
+      {
+         "id":"1",
+         "name":"Vox Africa",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4314.ts"
+      },
+      {
+         "id":"1",
+         "name":"Wazobia TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/6809.ts"
+      },
+      {
+         "id":"1",
+         "name":"Walf TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4313.ts"
+      },
+      {
+         "id":"1",
+         "name":"Ortb TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4330.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tarteel",
+         "image":"",
+         "group":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7190.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tm2 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4318.ts"
+      },
+      {
+         "id":"1",
+         "name":"Universal TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4315.ts"
+      },
+      {
+         "id":"1",
+         "name":"UNIVERSEL SOMALI TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4304.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tele sud",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4320.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tvs1 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4316.ts"
+      },
+      {
+         "id":"1",
+         "name":"Kedu TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Ghana",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4401.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Continental ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4317.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tafawoq",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7189.ts"
+      },
+      {
+         "id":"1",
+         "name":"KALSAN TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4338.ts"
+      },
+      {
+         "id":"1",
+         "name":"SNTV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4308.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sen TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4321.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sudan Drama",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7188.ts"
+      },
+      {
+         "id":"1",
+         "name":"TFM ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"SENEGAL",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4306.ts"
+      },
+      {
+         "id":"1",
+         "name":"TPA ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Angola",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4305.ts"
+      },
+      {
+         "id":"1",
+         "name":"TFM",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4319.ts"
+      },
+      {
+         "id":"1",
+         "name":"CBC TV 8",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4332.ts"
+      },
+      {
+         "id":"1",
+         "name":"GTV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4398.ts"
+      },
+      {
+         "id":"1",
+         "name":"Rtb",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4327.ts"
+      },
+      {
+         "id":"1",
+         "name":"SIKKA TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4309.ts"
+      },
+      {
+         "id":"1",
+         "name":"DABANGA ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"SUDAN",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4340.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"Rwanda",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4322.ts"
+      },
+      {
+         "id":"1",
+         "name":"Congo TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4334.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTI1 TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Cote D'ivoir",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4326.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTS1 ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4324.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTS2",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4323.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTS 1 AFRICA",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4310.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTI2 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Cote D'ivoir",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4325.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTI2 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/6805.ts"
+      },
+      {
+         "id":"1",
+         "name":"Adom TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4399.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTI LA PREMIERE",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4311.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTI 1",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/6806.ts"
+      },
+      {
+         "id":"1",
+         "name":"ORTM AFRICA",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4335.ts"
+      },
+      {
+         "id":"1",
+         "name":"NollyWood TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4400.ts"
+      },
+      {
+         "id":"1",
+         "name":"LIBERATION TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4337.ts"
+      },
+      {
+         "id":"1",
+         "name":"Joy News",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4402.ts"
+      },
+      {
+         "id":"1",
+         "name":"IL TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4331.ts"
+      },
+      {
+         "id":"1",
+         "name":"Gtv Sports Plus",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Ghana",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4397.ts"
+      },
+      {
+         "id":"1",
+         "name":"EBC ETHIOPIA",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4339.ts"
+      },
+      {
+         "id":"1",
+         "name":"AITInt'l",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4333.ts"
+      },
+      {
+         "id":"1",
+         "name":"SOMALI CABLE",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/4307.ts"
+      },
+      {
+         "id":"1",
+         "name":"Faith TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/16102.ts"
+      },
+      {
+         "id":"1",
+         "name":"GOD TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/16100.ts"
+      },
+      {
+         "id":"1",
+         "name":"TBN TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/16099.ts"
+      },
+      {
+         "id":"1",
+         "name":"TVM 1",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Mozambique",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/11794.ts"
+      },
+      {
+         "id":"1",
+         "name":"TVM 2",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Mozambique",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/11795.ts"
+      },
+      {
+         "id":"1",
+         "name":"DTV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/9438.ts"
+      },
+      {
+         "id":"1",
+         "name":"HC TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8694.ts"
+      },
+      {
+         "id":"1",
+         "name":"Afrique Media TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8692.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTG",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Guiniea",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8515.ts"
+      },
+      {
+         "id":"1",
+         "name":"MFM TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8095.ts"
+      },
+      {
+         "id":"1",
+         "name":"Erbu Africa",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8235.ts"
+      },
+      {
+         "id":"1",
+         "name":"A2i TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8234.ts"
+      },
+      {
+         "id":"1",
+         "name":"Aci TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8233.ts"
+      },
+      {
+         "id":"1",
+         "name":"Africa Today TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8232.ts"
+      },
+      {
+         "id":"1",
+         "name":"Africa TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8231.ts"
+      },
+      {
+         "id":"1",
+         "name":"Africa TV 2",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8230.ts"
+      },
+      {
+         "id":"1",
+         "name":"Africa TV 3",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8229.ts"
+      },
+      {
+         "id":"1",
+         "name":"Amazing Discoveries TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8228.ts"
+      },
+      {
+         "id":"1",
+         "name":"ANN 7",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"South Africa",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8227.ts"
+      },
+      {
+         "id":"1",
+         "name":"Ben TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Ghana",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8226.ts"
+      },
+      {
+         "id":"1",
+         "name":"Canal 2 Infos ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Cameroun",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8225.ts"
+      },
+      {
+         "id":"1",
+         "name":"Cinestream TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8224.ts"
+      },
+      {
+         "id":"1",
+         "name":"CNA",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8223.ts"
+      },
+      {
+         "id":"1",
+         "name":"D24",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8222.ts"
+      },
+      {
+         "id":"1",
+         "name":"DBS TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Cameroun",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8221.ts"
+      },
+      {
+         "id":"1",
+         "name":"Dunamis tv",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8220.ts"
+      },
+      {
+         "id":"1",
+         "name":"EBC2 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8219.ts"
+      },
+      {
+         "id":"1",
+         "name":"Emmanuel TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8218.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eri TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8217.ts"
+      },
+      {
+         "id":"1",
+         "name":"Francophonie 24",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8216.ts"
+      },
+      {
+         "id":"1",
+         "name":"GRTS",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Gambia",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8215.ts"
+      },
+      {
+         "id":"1",
+         "name":"IBN TV Africa",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8214.ts"
+      },
+      {
+         "id":"1",
+         "name":"Impact TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Burkina Faso",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8213.ts"
+      },
+      {
+         "id":"1",
+         "name":"ITV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8212.ts"
+      },
+      {
+         "id":"1",
+         "name":"Joy Prime TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Ghana ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8211.ts"
+      },
+      {
+         "id":"1",
+         "name":"Juice TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8210.ts"
+      },
+      {
+         "id":"1",
+         "name":"K24 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Kenya ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8209.ts"
+      },
+      {
+         "id":"1",
+         "name":"K24 TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Kenya",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8208.ts"
+      },
+      {
+         "id":"1",
+         "name":"KBC1",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8207.ts"
+      },
+      {
+         "id":"1",
+         "name":"Kessben TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Ghana",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8206.ts"
+      },
+      {
+         "id":"1",
+         "name":"Loveworld Plus TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8205.ts"
+      },
+      {
+         "id":"1",
+         "name":"MaishaI TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8204.ts"
+      },
+      {
+         "id":"1",
+         "name":"ManaSat MZ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Mozambique",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8203.ts"
+      },
+      {
+         "id":"1",
+         "name":"Mourchid TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8202.ts"
+      },
+      {
+         "id":"1",
+         "name":"Mouridiyah tv",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8201.ts"
+      },
+      {
+         "id":"1",
+         "name":"Music TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Singhal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8200.ts"
+      },
+      {
+         "id":"1",
+         "name":"Ndiouroul TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8199.ts"
+      },
+      {
+         "id":"1",
+         "name":"Neem TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Congo",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8198.ts"
+      },
+      {
+         "id":"1",
+         "name":"Nigezie TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8197.ts"
+      },
+      {
+         "id":"1",
+         "name":"NollyWood ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"French",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8196.ts"
+      },
+      {
+         "id":"1",
+         "name":"Nollywood Movies",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8195.ts"
+      },
+      {
+         "id":"1",
+         "name":"Novelas TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8194.ts"
+      },
+      {
+         "id":"1",
+         "name":"NTAi",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8193.ts"
+      },
+      {
+         "id":"1",
+         "name":"NTV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Uganda ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8192.ts"
+      },
+      {
+         "id":"1",
+         "name":"Ole Tfm",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8191.ts"
+      },
+      {
+         "id":"1",
+         "name":"Oromia",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Sudan",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8190.ts"
+      },
+      {
+         "id":"1",
+         "name":"Qacaid TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8189.ts"
+      },
+      {
+         "id":"1",
+         "name":"Royal TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Somali",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8188.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTI2 TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Cote d'Ivoir",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8187.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTN TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Gabon",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8186.ts"
+      },
+      {
+         "id":"1",
+         "name":"Rwanda tv",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Rwanda",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8185.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tchad TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8184.ts"
+      },
+      {
+         "id":"1",
+         "name":"TCV Cape Verde",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8183.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tele",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Congo",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8182.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tele",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Djibouti",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8181.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tele Sahel ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Niger",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8180.ts"
+      },
+      {
+         "id":"1",
+         "name":"TFM OLE",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8179.ts"
+      },
+      {
+         "id":"1",
+         "name":"TFM Religions",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8178.ts"
+      },
+      {
+         "id":"1",
+         "name":"Touba Mondebi",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8177.ts"
+      },
+      {
+         "id":"1",
+         "name":"Trace Africa",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8176.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Mana",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8175.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Mana-Maputo",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8174.ts"
+      },
+      {
+         "id":"1",
+         "name":"TVC News",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8173.ts"
+      },
+      {
+         "id":"1",
+         "name":"Vision 4",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/8172.ts"
+      },
+      {
+         "id":"1",
+         "name":"Cherifa TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Mali",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7920.ts"
+      },
+      {
+         "id":"1",
+         "name":"Africahwood TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7981.ts"
+      },
+      {
+         "id":"1",
+         "name":"Nikadys TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7980.ts"
+      },
+      {
+         "id":"1",
+         "name":"WAP TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7979.ts"
+      },
+      {
+         "id":"1",
+         "name":"CRTV TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7851.ts"
+      },
+      {
+         "id":"1",
+         "name":"Equinoxe",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7854.ts"
+      },
+      {
+         "id":"1",
+         "name":"Maisha TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7853.ts"
+      },
+      {
+         "id":"1",
+         "name":"RTNC",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7852.ts"
+      },
+      {
+         "id":"1",
+         "name":"TVT International",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Togo",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7855.ts"
+      },
+      {
+         "id":"1",
+         "name":"AFRICA 24",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7865.ts"
+      },
+      {
+         "id":"1",
+         "name":"Africable",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7866.ts"
+      },
+      {
+         "id":"1",
+         "name":"AIT International ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7861.ts"
+      },
+      {
+         "id":"1",
+         "name":"Burkina Info ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Burkina Faso",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7857.ts"
+      },
+      {
+         "id":"1",
+         "name":"CANAL 225",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"BENIN ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7858.ts"
+      },
+      {
+         "id":"1",
+         "name":"Channels 24 TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7862.ts"
+      },
+      {
+         "id":"1",
+         "name":"ENN",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7860.ts"
+      },
+      {
+         "id":"1",
+         "name":"Espace TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":" Guinee",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7868.ts"
+      },
+      {
+         "id":"1",
+         "name":"Lamp Fall TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7863.ts"
+      },
+      {
+         "id":"1",
+         "name":"Rok TV ",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Nigeria",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7867.ts"
+      },
+      {
+         "id":"1",
+         "name":"SBC",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Somalia ",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7856.ts"
+      },
+      {
+         "id":"1",
+         "name":"TOUBA TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Senegal",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7859.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV3 Live",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"TV3 Live",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7864.ts"
+      },
+      {
+         "id":"1",
+         "name":"Gabon TV",
+         "image":"",
+         "group":"AFRICA",
+         "quality":"",
+         "type":"Gabon",
+         "url":"http://iptvfree1.com:6969/live/gejebibu@minex-coin.com/7m5RaLeNHo/7716.ts"
+      }
+   ]
 }
