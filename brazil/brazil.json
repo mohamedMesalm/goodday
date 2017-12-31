@@ -1,1079 +1,1057 @@
-{ 
- "brazil":  [
-
 {
-"id":"1",
- "name":"TVE HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5281.ts"
-},
-{
-"id":"1",
- "name":"TV Urbana " ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5283.ts"
-},
-{
-"id":"1",
- "name":"TV Record" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5308.ts"
-},
-{
-"id":"1",
- "name":"TV Globo Premium" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5310.ts"
-},
-{
-"id":"1",
- "name":"TV Globo" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5309.ts"
-},
-{
-"id":"1",
- "name":"TV Diario Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5311.ts"
-},
-
-{
-"id":"1",
- "name":"REDE TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5290.ts"
-},
-{
-"id":"1",
- "name":"REDE GOSPEL" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5291.ts"
-},
-{
-"id":"1",
- "name":"RECORD PB" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5294.ts"
-},
-
-{
-"id":"1",
- "name":"Conexaobr Tv" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5302.ts"
-},
-{
-"id":"1",
- "name":"Canal Do Boi Tv" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5304.ts"
-},
-{
-"id":"1",
- "name":"Brazil 2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5277.ts"
-},
-{
-"id":"1",
- "name":"A&E" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5673.ts"
-},
-
-{
-"id":"1",
- "name":"AXN" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5675.ts"
-},
-{
-"id":"1",
- "name":"BAND" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5676.ts"
-},
-
-
-{
-"id":"1",
- "name":"FOX" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5687.ts"
-},
-{
-"id":"1",
- "name":"HBO" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5685.ts"
-},
-{
-"id":"1",
- "name":"HBO 2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5686.ts"
-},
-{
-"id":"1",
- "name":"MTV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5689.ts"
-},
-{
-"id":"1",
- "name":"TLC" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5694.ts"
-},
-{
-"id":"1",
- "name":"TNT" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5695.ts"
-},
-{
-"id":"1",
- "name":"WARNER" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5697.ts"
-},
-{
-"id":"1",
- "name":"Boomerang" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7368.ts"
-},
-{
-"id":"1",
- "name":"Canal Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7367.ts"
-},
-{
-"id":"1",
- "name":"Canal Sony" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7366.ts"
-},
-{
-"id":"1",
- "name":"Combate" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7302.ts"
-},
-
-{
-"id":"1",
- "name":"E!" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7359.ts"
-},
-
-{
-"id":"1",
- "name":"Fox Life" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7356.ts"
-},
-
-{
-"id":"1",
- "name":"Globo Premium" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7355.ts"
-},
-{
-"id":"1",
- "name":"Gloob" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7353.ts"
-},
-{
-"id":"1",
- "name":"GNT" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7352.ts"
-},
-{
-"id":"1",
- "name":"H2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7351.ts"
-},
-{
-"id":"1",
- "name":"HBO Family" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7350.ts"
-},
-{
-"id":"1",
- "name":"HBO Plus" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7349.ts"
-},
-{
-"id":"1",
- "name":"HBO Signature" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7348.ts"
-},
-
-{
-"id":"1",
- "name":"Max" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7346.ts"
-},
-{
-"id":"1",
- "name":"Max Prime" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7345.ts"
-},
-{
-"id":"1",
- "name":"Max Up" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7344.ts"
-},
-{
-"id":"1",
- "name":"Multishow" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7343.ts"
-},
-
-{
-"id":"1",
- "name":"Nick" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7341.ts"
-},
-{
-"id":"1",
- "name":"Paramount" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7340.ts"
-},
-{
-"id":"1",
- "name":"PFC" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7339.ts"
-},
-
-
-
-{
-"id":"1",
- "name":"TC Cult" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7325.ts"
-},
-{
-"id":"1",
- "name":"TC Fun" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7324.ts"
-},
-{
-"id":"1",
- "name":"TC Pipoca" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7323.ts"
-},
-{
-"id":"1",
- "name":"TC Premium" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7322.ts"
-},
-{
-"id":"1",
- "name":"TC Touch" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7321.ts"
-},
-{
-"id":"1",
- "name":"TCM" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7320.ts"
-},
-{
-"id":"1",
- "name":"History Channel" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7319.ts"
-},
-{
-"id":"1",
- "name":"TNT Series" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7318.ts"
-},
-{
-"id":"1",
- "name":"TV Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7317.ts"
-},
-{
-"id":"1",
- "name":"Viva" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7316.ts"
-},
-{
-"id":"1",
- "name":"Globo SP" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7842.ts"
-},
-{
-"id":"1",
- "name":"CANAL ESCOLA" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7923.ts"
-},
-{
-"id":"1",
- "name":"Eimax 1" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7929.ts"
-},
-{
-"id":"1",
- "name":"Fish TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7924.ts"
-},
-{
-"id":"1",
- "name":"FX" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7925.ts"
-},
-{
-"id":"1",
- "name":"Mais Globosat HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7921.ts"
-},
-
-{
-"id":"1",
- "name":"REDE RECORD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7927.ts"
-},
-{
-"id":"1",
- "name":"SBT Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7928.ts"
-},
-{
-"id":"1",
- "name":"Studio Universal" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7922.ts"
-},
-{
-"id":"1",
- "name":"Aparceida" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8084.ts"
-},
-{
-"id":"1",
- "name":"Arte 1" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8056.ts"
-},
-{
-"id":"1",
- "name":"BIS" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8055.ts"
-},
-{
-"id":"1",
- "name":"Canal DO TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8063.ts"
-},
-{
-"id":"1",
- "name":"Cançao Nova" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8083.ts"
-},
-{
-"id":"1",
- "name":"DW Latin" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8082.ts"
-},
-{
-"id":"1",
- "name":"E! MAXX 2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8060.ts"
-},
-{
-"id":"1",
- "name":"FUTURA" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8059.ts"
-},
-{
-"id":"1",
- "name":"GLOBAL TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8072.ts"
-},
-{
-"id":"1",
- "name":"MANA SAT" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8081.ts"
-},
-{
-"id":"1",
- "name":"MegaPix" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8054.ts"
-},
-{
-"id":"1",
- "name":"Music Box Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8053.ts"
-},
-{
-"id":"1",
- "name":"Nick Jr" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8071.ts"
-},
-{
-"id":"1",
- "name":"Novo Tempo" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8052.ts"
-},
-{
-"id":"1",
- "name":"OFF" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8051.ts"
-},
-{
-"id":"1",
- "name":"Proyecto 40" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8079.ts"
-},
-{
-"id":"1",
- "name":"RCTV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8080.ts"
-},
-{
-"id":"1",
- "name":"SBT" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8070.ts"
-},
-{
-"id":"1",
- "name":"Space Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8058.ts"
-},
-
-{
-"id":"1",
- "name":"TBS Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8066.ts"
-},
-{
-"id":"1",
- "name":"Tooncast" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8065.ts"
-},
-{
-"id":"1",
- "name":"Tru TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8086.ts"
-},
-{
-"id":"1",
- "name":"TV BRASIL CENTRAL" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8088.ts"
-},
-{
-"id":"1",
- "name":"TV Diario" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8078.ts"
-},
-{
-"id":"1",
- "name":"Tv Escola" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8076.ts"
-},
-{
-"id":"1",
- "name":"TV GAZETA HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8069.ts"
-},
-{
-"id":"1",
- "name":"TV GERAL" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8067.ts"
-},
-{
-"id":"1",
- "name":"TVI" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8068.ts"
-},
-{
-"id":"1",
- "name":"Universal Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8064.ts"
-},
-{
-"id":"1",
- "name":"Vem e Ve TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8075.ts"
-},
-{
-"id":"1",
- "name":"VH1 Mega Hits" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8087.ts"
-},
-{
-"id":"1",
- "name":"Woohoo Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8057.ts"
-},
-
-{
-"id":"1",
- "name":"AXN HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17070.ts"
-},
-{
-"id":"1",
- "name":"Combate HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17069.ts"
-},
-
-
-{
-"id":"1",
- "name":"FX HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17053.ts"
-},
-{
-"id":"1",
- "name":"Globo RJ HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17052.ts"
-},
-{
-"id":"1",
- "name":"GNT HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17051.ts"
-},
-{
-"id":"1",
- "name":"H2 HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17050.ts"
-},
-{
-"id":"1",
- "name":"HBO 2 HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17049.ts"
-},
-{
-"id":"1",
- "name":"HBO Family HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17048.ts"
-},
-{
-"id":"1",
- "name":"HBO HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17047.ts"
-},
-{
-"id":"1",
- "name":"HBO Plus HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17046.ts"
-},
-{
-"id":"1",
- "name":"HBO Signature HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17045.ts"
-},
-{
-"id":"1",
- "name":"History Channel HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17044.ts"
-},
-
-{
-"id":"1",
- "name":"Megapix HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17042.ts"
-},
-{
-"id":"1",
- "name":"OFF HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17041.ts"
-},
-{
-"id":"1",
- "name":"Paramount HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17040.ts"
-},
-
-{
-"id":"1",
- "name":"Premiere Clubes HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17035.ts"
-},
-{
-"id":"1",
- "name":"Record HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17034.ts"
-},
-{
-"id":"1",
- "name":"SBT HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17033.ts"
-},
-{
-"id":"1",
- "name":"Space HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17032.ts"
-},
-{
-"id":"1",
- "name":"TBS HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17028.ts"
-},
-
-{
-"id":"1",
- "name":"TNT HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17023.ts"
-},
-{
-"id":"1",
- "name":"TNT Séries HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17022.ts"
-},
-{
-"id":"1",
- "name":"Universal Channels HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17021.ts"
-},
-{
-"id":"1",
- "name":"Warner Channel HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17020.ts"
-}
-]
+   "brazil":[
+      {
+         "id":"1",
+         "name":"TVE HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5281.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Urbana ",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5283.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Record",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5308.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Globo Premium",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5310.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Globo",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5309.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Diario Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5311.ts"
+      },
+      {
+         "id":"1",
+         "name":"REDE TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5290.ts"
+      },
+      {
+         "id":"1",
+         "name":"REDE GOSPEL",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5291.ts"
+      },
+      {
+         "id":"1",
+         "name":"RECORD PB",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5294.ts"
+      },
+      {
+         "id":"1",
+         "name":"Conexaobr Tv",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5302.ts"
+      },
+      {
+         "id":"1",
+         "name":"Canal Do Boi Tv",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5304.ts"
+      },
+      {
+         "id":"1",
+         "name":"Brazil 2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5277.ts"
+      },
+      {
+         "id":"1",
+         "name":"A&E",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5673.ts"
+      },
+      {
+         "id":"1",
+         "name":"AXN",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5675.ts"
+      },
+      {
+         "id":"1",
+         "name":"BAND",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5676.ts"
+      },
+      {
+         "id":"1",
+         "name":"FOX",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5687.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5685.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO 2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5686.ts"
+      },
+      {
+         "id":"1",
+         "name":"MTV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5689.ts"
+      },
+      {
+         "id":"1",
+         "name":"TLC",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5694.ts"
+      },
+      {
+         "id":"1",
+         "name":"TNT",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5695.ts"
+      },
+      {
+         "id":"1",
+         "name":"WARNER",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5697.ts"
+      },
+      {
+         "id":"1",
+         "name":"Boomerang",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7368.ts"
+      },
+      {
+         "id":"1",
+         "name":"Canal Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7367.ts"
+      },
+      {
+         "id":"1",
+         "name":"Canal Sony",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7366.ts"
+      },
+      {
+         "id":"1",
+         "name":"Combate",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7302.ts"
+      },
+      {
+         "id":"1",
+         "name":"E!",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7359.ts"
+      },
+      {
+         "id":"1",
+         "name":"Fox Life",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7356.ts"
+      },
+      {
+         "id":"1",
+         "name":"Globo Premium",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7355.ts"
+      },
+      {
+         "id":"1",
+         "name":"Gloob",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7353.ts"
+      },
+      {
+         "id":"1",
+         "name":"GNT",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7352.ts"
+      },
+      {
+         "id":"1",
+         "name":"H2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7351.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO Family",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7350.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO Plus",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7349.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO Signature",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7348.ts"
+      },
+      {
+         "id":"1",
+         "name":"Max",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7346.ts"
+      },
+      {
+         "id":"1",
+         "name":"Max Prime",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7345.ts"
+      },
+      {
+         "id":"1",
+         "name":"Max Up",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7344.ts"
+      },
+      {
+         "id":"1",
+         "name":"Multishow",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7343.ts"
+      },
+      {
+         "id":"1",
+         "name":"Nick",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7341.ts"
+      },
+      {
+         "id":"1",
+         "name":"Paramount",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7340.ts"
+      },
+      {
+         "id":"1",
+         "name":"PFC",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7339.ts"
+      },
+      {
+         "id":"1",
+         "name":"TC Cult",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7325.ts"
+      },
+      {
+         "id":"1",
+         "name":"TC Fun",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7324.ts"
+      },
+      {
+         "id":"1",
+         "name":"TC Pipoca",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7323.ts"
+      },
+      {
+         "id":"1",
+         "name":"TC Premium",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7322.ts"
+      },
+      {
+         "id":"1",
+         "name":"TC Touch",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7321.ts"
+      },
+      {
+         "id":"1",
+         "name":"TCM",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7320.ts"
+      },
+      {
+         "id":"1",
+         "name":"History Channel",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7319.ts"
+      },
+      {
+         "id":"1",
+         "name":"TNT Series",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7318.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7317.ts"
+      },
+      {
+         "id":"1",
+         "name":"Viva",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7316.ts"
+      },
+      {
+         "id":"1",
+         "name":"Globo SP",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7842.ts"
+      },
+      {
+         "id":"1",
+         "name":"CANAL ESCOLA",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7923.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eimax 1",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7929.ts"
+      },
+      {
+         "id":"1",
+         "name":"Fish TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7924.ts"
+      },
+      {
+         "id":"1",
+         "name":"FX",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7925.ts"
+      },
+      {
+         "id":"1",
+         "name":"Mais Globosat HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7921.ts"
+      },
+      {
+         "id":"1",
+         "name":"REDE RECORD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7927.ts"
+      },
+      {
+         "id":"1",
+         "name":"SBT Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7928.ts"
+      },
+      {
+         "id":"1",
+         "name":"Studio Universal",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7922.ts"
+      },
+      {
+         "id":"1",
+         "name":"Aparceida",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8084.ts"
+      },
+      {
+         "id":"1",
+         "name":"Arte 1",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8056.ts"
+      },
+      {
+         "id":"1",
+         "name":"BIS",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8055.ts"
+      },
+      {
+         "id":"1",
+         "name":"Canal DO TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8063.ts"
+      },
+      {
+         "id":"1",
+         "name":"Cançao Nova",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8083.ts"
+      },
+      {
+         "id":"1",
+         "name":"DW Latin",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8082.ts"
+      },
+      {
+         "id":"1",
+         "name":"E! MAXX 2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8060.ts"
+      },
+      {
+         "id":"1",
+         "name":"FUTURA",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8059.ts"
+      },
+      {
+         "id":"1",
+         "name":"GLOBAL TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8072.ts"
+      },
+      {
+         "id":"1",
+         "name":"MANA SAT",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8081.ts"
+      },
+      {
+         "id":"1",
+         "name":"MegaPix",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8054.ts"
+      },
+      {
+         "id":"1",
+         "name":"Music Box Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8053.ts"
+      },
+      {
+         "id":"1",
+         "name":"Nick Jr",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8071.ts"
+      },
+      {
+         "id":"1",
+         "name":"Novo Tempo",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8052.ts"
+      },
+      {
+         "id":"1",
+         "name":"OFF",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8051.ts"
+      },
+      {
+         "id":"1",
+         "name":"Proyecto 40",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8079.ts"
+      },
+      {
+         "id":"1",
+         "name":"RCTV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8080.ts"
+      },
+      {
+         "id":"1",
+         "name":"SBT",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8070.ts"
+      },
+      {
+         "id":"1",
+         "name":"Space Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8058.ts"
+      },
+      {
+         "id":"1",
+         "name":"TBS Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8066.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tooncast",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8065.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tru TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8086.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV BRASIL CENTRAL",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8088.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV Diario",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8078.ts"
+      },
+      {
+         "id":"1",
+         "name":"Tv Escola",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8076.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV GAZETA HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8069.ts"
+      },
+      {
+         "id":"1",
+         "name":"TV GERAL",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8067.ts"
+      },
+      {
+         "id":"1",
+         "name":"TVI",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8068.ts"
+      },
+      {
+         "id":"1",
+         "name":"Universal Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8064.ts"
+      },
+      {
+         "id":"1",
+         "name":"Vem e Ve TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8075.ts"
+      },
+      {
+         "id":"1",
+         "name":"VH1 Mega Hits",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8087.ts"
+      },
+      {
+         "id":"1",
+         "name":"Woohoo Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8057.ts"
+      },
+      {
+         "id":"1",
+         "name":"AXN HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17070.ts"
+      },
+      {
+         "id":"1",
+         "name":"Combate HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17069.ts"
+      },
+      {
+         "id":"1",
+         "name":"FX HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17053.ts"
+      },
+      {
+         "id":"1",
+         "name":"Globo RJ HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17052.ts"
+      },
+      {
+         "id":"1",
+         "name":"GNT HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17051.ts"
+      },
+      {
+         "id":"1",
+         "name":"H2 HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17050.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO 2 HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17049.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO Family HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17048.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17047.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO Plus HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17046.ts"
+      },
+      {
+         "id":"1",
+         "name":"HBO Signature HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17045.ts"
+      },
+      {
+         "id":"1",
+         "name":"History Channel HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17044.ts"
+      },
+      {
+         "id":"1",
+         "name":"Megapix HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17042.ts"
+      },
+      {
+         "id":"1",
+         "name":"OFF HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17041.ts"
+      },
+      {
+         "id":"1",
+         "name":"Paramount HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17040.ts"
+      },
+      {
+         "id":"1",
+         "name":"Premiere Clubes HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17035.ts"
+      },
+      {
+         "id":"1",
+         "name":"Record HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17034.ts"
+      },
+      {
+         "id":"1",
+         "name":"SBT HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17033.ts"
+      },
+      {
+         "id":"1",
+         "name":"Space HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17032.ts"
+      },
+      {
+         "id":"1",
+         "name":"TBS HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17028.ts"
+      },
+      {
+         "id":"1",
+         "name":"TNT HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17023.ts"
+      },
+      {
+         "id":"1",
+         "name":"TNT Séries HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17022.ts"
+      },
+      {
+         "id":"1",
+         "name":"Universal Channels HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17021.ts"
+      },
+      {
+         "id":"1",
+         "name":"Warner Channel HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17020.ts"
+      }
+   ]
 }

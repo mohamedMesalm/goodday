@@ -1,33 +1,31 @@
-{  
-     "news":  [
-	 
 {
-"id":"1",
- "name":"Globo News" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7303.ts"
-},
-{
-"id":"1",
- "name":"BAND NEWS" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5677.ts"
-},
-	 {
-"id":"1",
- "name":"Record News" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7926.ts"
-}
-	 
-    ]
+   "news":[
+      {
+         "id":"1",
+         "name":"Globo News",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7303.ts"
+      },
+      {
+         "id":"1",
+         "name":"BAND NEWS",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5677.ts"
+      },
+      {
+         "id":"1",
+         "name":"Record News",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7926.ts"
+      }
+   ]
 }

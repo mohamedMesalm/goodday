@@ -1,197 +1,193 @@
-{  
-     "sports":  [
-	 
 {
-"id":"1",
- "name":"ESPN plus" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5326.ts"
-},
-{
-"id":"1",
- "name":"ESPN HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5327.ts"
-},
-{
-"id":"1",
- "name":"ESPN Brasil" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5328.ts"
-},
-{
-"id":"1",
- "name":"ESPN" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7357.ts"
-},
-{
-"id":"1",
- "name":"ESPN  HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17063.ts"
-},
-{
-"id":"1",
- "name":"ESPN Brasil HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17062.ts"
-},
-
-{
-"id":"1",
- "name":"SPORT TV 2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5318.ts"
-},
-{
-"id":"1",
- "name":"SPORT TV 3" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5317.ts"
-},
-{
-"id":"1",
- "name":"FOX Sports 1" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":" ",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5322.ts"
-},
-{
-"id":"1",
- "name":"Fox Sports 2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5320.ts"
-},
-{
-"id":"1",
- "name":"Fox Sport HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17054.ts"
-},
-{
-"id":"1",
- "name":"BAND SPORTS" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5678.ts"
-},
-
-{
-"id":"1",
- "name":"Sport TV" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7331.ts"
-},
-{
-"id":"1",
- "name":"Sport TV2" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7330.ts"
-},
-{
-"id":"1",
- "name":"Sport TV3" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7329.ts"
-},
-
-{
-"id":"1",
- "name":"Sport TV 2 HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17031.ts"
-},
-{
-"id":"1",
- "name":"Sport TV 3 HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17030.ts"
-},
-{
-"id":"1",
- "name":"Sport TV HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17029.ts"
-},
-{
-"id":"1",
- "name":"Esporte Interativo HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17059.ts"
-},
-{
-"id":"1",
- "name":"Esporte Interativo 2 HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17061.ts"
-},
-{
-"id":"1",
- "name":"Esporte Interativo BR HD" ,
-"image":"" ,
- "group":"Brazil",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17060.ts"
-}
-]
+   "sports":[
+      {
+         "id":"1",
+         "name":"ESPN plus",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5326.ts"
+      },
+      {
+         "id":"1",
+         "name":"ESPN HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5327.ts"
+      },
+      {
+         "id":"1",
+         "name":"ESPN Brasil",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5328.ts"
+      },
+      {
+         "id":"1",
+         "name":"ESPN",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7357.ts"
+      },
+      {
+         "id":"1",
+         "name":"ESPN  HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17063.ts"
+      },
+      {
+         "id":"1",
+         "name":"ESPN Brasil HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17062.ts"
+      },
+      {
+         "id":"1",
+         "name":"SPORT TV 2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5318.ts"
+      },
+      {
+         "id":"1",
+         "name":"SPORT TV 3",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5317.ts"
+      },
+      {
+         "id":"1",
+         "name":"FOX Sports 1",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":" ",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5322.ts"
+      },
+      {
+         "id":"1",
+         "name":"Fox Sports 2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5320.ts"
+      },
+      {
+         "id":"1",
+         "name":"Fox Sport HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17054.ts"
+      },
+      {
+         "id":"1",
+         "name":"BAND SPORTS",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5678.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sport TV",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7331.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sport TV2",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7330.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sport TV3",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7329.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sport TV 2 HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17031.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sport TV 3 HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17030.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sport TV HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17029.ts"
+      },
+      {
+         "id":"1",
+         "name":"Esporte Interativo HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17059.ts"
+      },
+      {
+         "id":"1",
+         "name":"Esporte Interativo 2 HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17061.ts"
+      },
+      {
+         "id":"1",
+         "name":"Esporte Interativo BR HD",
+         "image":"",
+         "group":"Brazil",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/17060.ts"
+      }
+   ]
 }
