@@ -2,11 +2,11 @@
    "arkids":[
       {
          "id":"1",
-         "name":"VIP  OSN Movies Kids HD",
-         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_200/v1514800614/tv%20icon/osn_movies_kids.png",
+         "name":"OSN Movies Kids HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514800614/tv%20icon/osn_movies_kids.png",
          "group":"ARABIC",
          "quality":"",
-         "type":"VIP  OSN Movies Kids HD",
+         "type":"VIP",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6714.ts"
       },
       {
