@@ -84,9 +84,9 @@
       {
          "id":"1",
          "name":"Bein Jeem HD",
-         "image":"",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803656/tv%20icon/JeemTV_logo.png",
          "group":"ARABIC",
-         "quality":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803656/tv%20icon/JeemTV_logo.png",
+         "quality":"",
          "type":"VIP",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6501.ts"
       },
