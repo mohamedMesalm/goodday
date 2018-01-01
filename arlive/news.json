@@ -2,192 +2,170 @@
    "arnews":[
       {
          "id":"1",
-         "name":"AR: Al Jazeera Mubasher",
-         "image":"http://res.cloudinary.com/mohamedicons/image/upload/bo_1px_solid_rgb:ffffff,o_76,q_100,z_1.2/v1514751754/tv%20icon/al_jazeera_channel_qa.jpg",
+         "name":"Al Jazeera Mubasher",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815636/tv%20icon/al_jazeera_mubasher.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/999.ts"
       },
       {
          "id":"1",
-         "name":"AR:AlJazerra",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"AlJazerra",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815763/tv%20icon/al_jazeera_channel.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/558.ts"
       },
       {
          "id":"1",
-         "name":" Al Jazeera English",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al Jazeera English",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815849/tv%20icon/al_jazeera_english.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/1000.ts"
       },
       {
          "id":"1",
-         "name":"AR: TRT Arabic",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"TRT Arabic",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815984/tv%20icon/TRTarabic.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/553.ts"
       },
       {
          "id":"1",
-         "name":" OSN Fox News HD",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "name":"Fox News HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514817152/tv%20icon/Fox_News.png",
+         "type":"################",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5437.ts"
       },
       {
          "id":"1",
-         "name":" OSN  SKY NEWS",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"SKY NEWS",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816306/tv%20icon/sky_uk_news_arabia.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5407.ts"
       },
       {
          "id":"1",
-         "name":" OSN France 24",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "name":"OSN France 24",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816446/tv%20icon/france24.png",
+         "type":"##############",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5405.ts"
       },
       {
          "id":"1",
          "name":" France 24 AR",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816446/tv%20icon/france24.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/559.ts"
       },
+     
       {
          "id":"1",
-         "name":" Al Sharqiya News",
+         "name":"OSN NEWS HD",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
-         "quality":"",
-         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7447.ts"
-      },
-      {
-         "id":"1",
-         "name":"VIP  OSN NEWS HD",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"VIP **********",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7143.ts"
       },
       {
          "id":"1",
-         "name":" NILE NEWS",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"NILE NEWS",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816914/tv%20icon/nile_news_eg.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6336.ts"
       },
       {
          "id":"1",
-         "name":" Numidia News TV",
+         "name":"Numidia News TV",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"**********",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6619.ts"
       },
       {
          "id":"1",
-         "name":"VIP  OSN Fox News",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "name":"Fox News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514817152/tv%20icon/Fox_News.png",
+         "type":"VIP",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6853.ts"
       },
       {
          "id":"1",
-         "name":" Sky News Arabic",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "name":"Sky News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816306/tv%20icon/sky_uk_news_arabia.png",
+         "type":"################",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/556.ts"
       },
       {
          "id":"1",
-         "name":" Syria News",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Syria News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514817570/tv%20icon/al_ikhbaria_sy.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/555.ts"
       },
       {
          "id":"1",
-         "name":" OSN NEWS",
+         "name":"OSN NEWS",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"**************",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/4366.ts"
       },
+      
       {
          "id":"1",
-         "name":" OSN BBC FIRST HD",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
-         "quality":"",
-         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/4355.ts"
-      },
-      {
-         "id":"1",
-         "name":"VIP  OSN BBC First",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
-         "quality":"",
-         "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6240.ts"
-      },
-      {
-         "id":"1",
-         "name":" OSN CNBC ARABIA",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "name":"OSN CNBC ARABIA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514818502/tv%20icon/cnbc.png",
+         "type":"*******************",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/5406.ts"
       },
       {
          "id":"1",
-         "name":"VIP  OSN CNN",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"CNN",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514818578/tv%20icon/cnn.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6505.ts"
       },
       {
          "id":"1",
-         "name":" Al Quds",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al Quds",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514819054/tv%20icon/AL_quds.jpg",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/7058.ts"
       },
       {
          "id":"1",
-         "name":"  Al Alam",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al Alam",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514819233/tv%20icon/Al-Alam.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/549.ts"
       },
       {
          "id":"1",
-         "name":"  Al-Manar",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al Manar",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514819868/tv%20icon/al_manar.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/541.ts"
       },
       {
          "id":"1",
-         "name":"  Al arabia Alhadath",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al arabia Alhadath",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820383/tv%20icon/alhadth.jpg",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/550.ts"
@@ -195,71 +173,71 @@
       {
          "id":"1",
          "name":" AL Hadath",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820551/tv%20icon/alhadth2.jpg",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6341.ts"
       },
       {
          "id":"1",
-         "name":" NBN Lebanon",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"NBN Lebanon",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820729/tv%20icon/nbn_lebanon.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/1506.ts"
       },
       {
          "id":"1",
-         "name":" Al Arabiya",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al Arabiya",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820829/tv%20icon/al_arabiya_hd.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6340.ts"
       },
       {
          "id":"1",
-         "name":" DzairNews",
+         "name":"Dzair News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"***********",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9158.ts"
       },
       {
          "id":"1",
-         "name":" Al Iraqia News",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al Iraqia News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514821090/tv%20icon/al_iraqya_news.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/9164.ts"
       },
       {
          "id":"1",
-         "name":" Free Syria",
+         "name":"Free Syria",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"**************",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/6620.ts"
       },
       {
          "id":"1",
-         "name":" Libya News",
+         "name":"Libya News",
          "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
-         "type":"",
+         "type":"***************",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8964.ts"
       },
       {
          "id":"1",
-         "name":" Echorouk News",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Echorouk News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514821325/tv%20icon/echorouk_tv_news_dz.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/8237.ts"
       },
       {
          "id":"1",
-         "name":"  ekhbariya tv",
-         "image":"http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+         "name":"Al ekhbariya tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514821497/tv%20icon/Al_Ekhbariya.png",
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/coolman@muimail.com/ZFNkcSqVE3/3047.ts"
