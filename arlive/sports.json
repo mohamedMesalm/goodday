@@ -472,7 +472,7 @@
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/4063.ts"
       },
-	  {
+      {
          "id":"1",
          "name":"Dubai Racing 2",
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924602/tv%20icon/dubai_ae_racing_2.png",
@@ -504,7 +504,6 @@
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3386.ts"
       },
-      
       {
          "id":"1",
          "name":"Nile Sport",
@@ -536,14 +535,14 @@
          "type":"",
          "quality":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/1512.ts"
-      },   
+      },
       {
-		 "id":"1",
-		 "name":"Sharjah Sport" ,
-	   	 "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514925611/tv%20icon/sharjah_sports_tv.png" ,
-		 "type" :"",
-		 "quality" : "",
-		 "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/9119ts"
+         "id":"1",
+         "name":"Sharjah Sport",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514925611/tv%20icon/sharjah_sports_tv.png",
+         "type":"",
+         "quality":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/9119ts"
       },
       {
          "id":"1",
