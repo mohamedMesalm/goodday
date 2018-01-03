@@ -1,23 +1,6 @@
 {
    "czech":[
-      {
-         "id":"1",
-         "name":"WAU HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3801.ts"
-      },
-      {
-         "id":"1",
-         "name":"Viasat HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3809.ts"
-      },
+        
       {
          "id":"1",
          "name":"TV Regina",
@@ -26,16 +9,7 @@
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3810.ts"
-      },
-      {
-         "id":"1",
-         "name":"TV Paprika",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3811.ts"
-      },
+      },   
       {
          "id":"1",
          "name":"the QYOU",
@@ -44,52 +18,7 @@
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3798.ts"
-      },
-      {
-         "id":"1",
-         "name":"TELKA",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3802.ts"
-      },
-      {
-         "id":"1",
-         "name":"Sport 5",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3812.ts"
-      },
-      {
-         "id":"1",
-         "name":"Sport 2 HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3813.ts"
-      },
-      {
-         "id":"1",
-         "name":"Sport 1",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3814.ts"
-      },
-      {
-         "id":"1",
-         "name":"Spektrum HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3815.ts"
-      },
+      },    
       {
          "id":"1",
          "name":"SMICHOV",
@@ -110,15 +39,6 @@
       },
       {
          "id":"1",
-         "name":"RELAX",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3817.ts"
-      },
-      {
-         "id":"1",
          "name":"REBEL",
          "image":"",
          "group":"Czech",
@@ -128,84 +48,12 @@
       },
       {
          "id":"1",
-         "name":"Nova Sport 2 HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3804.ts"
-      },
-      {
-         "id":"1",
-         "name":"Nickelodeon",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"Nickelodeon",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3819.ts"
-      },
-      {
-         "id":"1",
-         "name":"Nautical HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3820.ts"
-      },
-      {
-         "id":"1",
-         "name":"Nat Geo Wild HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3821.ts"
-      },
-      {
-         "id":"1",
-         "name":"Nat Geo HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3822.ts"
-      },
-      {
-         "id":"1",
          "name":"MTV Europe",
          "image":"",
          "group":"Czech",
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3823.ts"
-      },
-      {
-         "id":"1",
-         "name":"Mnam TV",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3824.ts"
-      },
-      {
-         "id":"1",
-         "name":"Minimax",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3805.ts"
-      },
-      {
-         "id":"1",
-         "name":"Markiza International",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3806.ts"
       },
       {
          "id":"1",
@@ -227,120 +75,12 @@
       },
       {
          "id":"1",
-         "name":"JOJ Family HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3808.ts"
-      },
-      {
-         "id":"1",
          "name":"iConcerts",
          "image":"",
          "group":"Czech",
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3826.ts"
-      },
-      {
-         "id":"1",
-         "name":"HBO3",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3827.ts"
-      },
-      {
-         "id":"1",
-         "name":"HBO2",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3828.ts"
-      },
-      {
-         "id":"1",
-         "name":"HBO HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3829.ts"
-      },
-      {
-         "id":"1",
-         "name":"Golf Channel",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3830.ts"
-      },
-      {
-         "id":"1",
-         "name":"Fishing and Hunting",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3831.ts"
-      },
-      {
-         "id":"1",
-         "name":"Filmbox Premium",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3832.ts"
-      },
-      {
-         "id":"1",
-         "name":"Filmbox Plus",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3833.ts"
-      },
-      {
-         "id":"1",
-         "name":"Filmbox Family",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3834.ts"
-      },
-      {
-         "id":"1",
-         "name":"Filmbox Extra HD",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3835.ts"
-      },
-      {
-         "id":"1",
-         "name":"Film",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3836.ts"
-      },
-      {
-         "id":"1",
-         "name":"EDGE",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3799.ts"
       },
       {
          "id":"1",
@@ -353,75 +93,12 @@
       },
       {
          "id":"1",
-         "name":"Duck TV",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":" ",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3838.ts"
-      },
-      {
-         "id":"1",
-         "name":"Disney",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3839.ts"
-      },
-      {
-         "id":"1",
-         "name":"Discovery",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3840.ts"
-      },
-      {
-         "id":"1",
-         "name":"Cinemax",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3841.ts"
-      },
-      {
-         "id":"1",
          "name":"Brava HD",
          "image":"",
          "group":"Czech",
          "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3842.ts"
-      },
-      {
-         "id":"1",
-         "name":"Boomerang",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"Boomerang",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3800.ts"
-      },
-      {
-         "id":"1",
-         "name":"AXN",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3843.ts"
-      },
-      {
-         "id":"1",
-         "name":"AMC",
-         "image":"",
-         "group":"Czech",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/3844.ts"
       }
    ]
 }
