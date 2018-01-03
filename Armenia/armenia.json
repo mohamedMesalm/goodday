@@ -1,99 +1,94 @@
-{   
-            "armenia" : 
-                      [
 {
-"id":"1",
- "name":"AABC TV" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5662.ts"
-},
-{
-"id":"1",
- "name":"AMGA TV" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5661.ts"
-},
-{
-"id":"1",
- "name":"ARTN/SHANT" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5660.ts"
-},
-{
-"id":"1",
- "name":"Kentron tv" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5671.ts"
-},
-{
-"id":"1",
- "name":"Yerkirmedia" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5666.ts"
-},
-
-
-{
-"id":"1",
- "name":"AABC TV" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5662.ts"
-},
-{
-"id":"1",
- "name":"AMGA TV" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5661.ts"
-},
-{
-"id":"1",
- "name":"ARTN/SHANT" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5660.ts"
-},
-{
-"id":"1",
- "name":"Kentron tv" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5671.ts"
-},
-{
-"id":"1",
- "name":"Yerkirmedia" ,
-"image":"" ,
- "group":"Armenia",
- "quality":"",
- "type":"",
-"url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5666.ts"
-}
-
-    ]
-	
+   "armenia":[
+      {
+         "id":"1",
+         "name":"AABC TV",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5662.ts"
+      },
+      {
+         "id":"1",
+         "name":"AMGA TV",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5661.ts"
+      },
+      {
+         "id":"1",
+         "name":"ARTN/SHANT",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5660.ts"
+      },
+      {
+         "id":"1",
+         "name":"Kentron tv",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5671.ts"
+      },
+      {
+         "id":"1",
+         "name":"Yerkirmedia",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5666.ts"
+      },
+      {
+         "id":"1",
+         "name":"AABC TV",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5662.ts"
+      },
+      {
+         "id":"1",
+         "name":"AMGA TV",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5661.ts"
+      },
+      {
+         "id":"1",
+         "name":"ARTN/SHANT",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5660.ts"
+      },
+      {
+         "id":"1",
+         "name":"Kentron tv",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5671.ts"
+      },
+      {
+         "id":"1",
+         "name":"Yerkirmedia",
+         "image":"",
+         "group":"Armenia",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/zga3p@c1oramn.com/Wikzc1UByl/5666.ts"
+      }
+   ]
 }
