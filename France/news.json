@@ -1,7 +1,6 @@
 {
    "news":[
-
-     {
+      {
          "id":"1",
          "name":"CNews HD",
          "image":"",
@@ -10,15 +9,16 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/17072.ts"
       },
-	     {
+      {
          "id":"1",
          "name":"Euronews",
          "image":"",
          "group":"France",
+		  "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1550.ts"
       },
-	  {
+      {
          "id":"1",
          "name":"France  24",
          "image":"",
@@ -28,4 +28,4 @@
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1551.ts"
       }
    ]
- }
+}
