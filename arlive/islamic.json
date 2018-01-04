@@ -1,22 +1,52 @@
-{ "albaniaislmaic" : [
- {
+{
+   "arislamic":[
+      {
          "id":"1",
-         "name":"Peace Tv",
-         "image":"",
-         "group":"Albania",
+         "name":"quran tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823085/tv%20icon/al_quran_al_kareem_tv.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/8804.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3042.ts"
       },
-	   {
+      {
          "id":"1",
-         "name":"Shqip TV Islam",
-         "image":"",
-         "group":"Albania",
+         "name":"sunna tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823672/tv%20icon/saudi_sunnah_islamic.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16176.ts"
-      }
-]
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3043.ts"
+      },
+      {
+         "id":"1",
+         "name":"iqraa tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823775/tv%20icon/iqraa.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3044.ts"
+      },
 
+      {
+         "id":"1",
+         "name":"AL IMAN TV",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514824063/tv%20icon/al_iman.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/7178.ts"
+      },
+     
+      {
+         "id":"1",
+         "name":"AL SIRAT",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514824877/tv%20icon/Assirat.jpg",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/7023.ts"
+      }
+   ]
 }
+

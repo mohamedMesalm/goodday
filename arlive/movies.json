@@ -1,413 +1,609 @@
-
-{ "albaniamovies" : [
-
+{
+   "armoviese":[
       {
          "id":"1",
-         "name":"Sky Komedi",
-         "image":"",
-         "group":"Albania",
+         "name":"BeIN Movies 1HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825441/tv%20icon/be_in_mena_movies_01_hd.png",
+         "group":"ARABIC",
          "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3439.ts"
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6608.ts"
       },
       {
          "id":"1",
-         "name":"Sky Histori",
-         "image":"",
-         "group":"Albania",
+         "name":"BeIN Movies 2HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825495/tv%20icon/be_in_mena_movies_02_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6609.ts"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Movies 3HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825573/tv%20icon/be_in_mena_movies_03_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6610.ts"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Movies 4HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825691/tv%20icon/be_in_mena_movies_04_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6611.ts"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 1HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825441/tv%20icon/be_in_mena_movies_01_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/506.ts"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 2HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825495/tv%20icon/be_in_mena_movies_02_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/507.ts"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825573/tv%20icon/be_in_mena_movies_03_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/508.ts"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 4 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825691/tv%20icon/be_in_mena_movies_04_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/4612.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826106/tv%20icon/osn_movies_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6713.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies 2 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826230/tv%20icon/osn_movies_hd_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6717.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Action HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826339/tv%20icon/osn_movies_action_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6706.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Action 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826595/tv%20icon/osn_movies_action_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6707.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Family HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826914/tv%20icon/osn_movies_family_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6711.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Comedy HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514827033/tv%20icon/osn_movies_comedy_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6708.ts"
+      },
+     
+      {
+         "id":"1",
+         "name":"OSN Movies Priemer HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514827326/tv%20icon/osn_movies_premiere.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6715.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514827879/tv%20icon/osn_movies_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6710.ts"
+      },
+      
+      {
+         "id":"1",
+         "name":"OSN Movies Festival HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514828064/tv%20icon/osn_movies_festival_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6712.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826106/tv%20icon/osn_movies_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/4364.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies 2 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826230/tv%20icon/osn_movies_hd_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/4361.ts"
+      },
+      
+      {
+         "id":"1",
+         "name":"OSN Movies Action",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826339/tv%20icon/osn_movies_action_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3392.ts"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Action 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826595/tv%20icon/osn_movies_action_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3377.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Festival",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514828064/tv%20icon/osn_movies_festival_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3369.ts"
+      },
+     
+      {
+         "id":"1",
+         "name":"OSN Star Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514828791/tv%20icon/Star_movies_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/4371.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Fox Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829019/tv%20icon/fox_movies_us.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6173.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN FX HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829236/tv%20icon/Fxhd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6172.ts"
+      },
+     
+      {
+         "id":"1",
+         "name":"OSN SYFY HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829493/tv%20icon/Syfy-HD.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6167.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829600/tv%20icon/osn_ya_hala_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6140.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829675/tv%20icon/osn_ya_hala_hd_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6141.ts"
+      },
+      
+      {
+         "id":"1",
+         "name":"OSN Ya Hala Cinema",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829728/tv%20icon/osn_ya_hala_cinema_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6144.ts"
+      },
+     
+      {
+         "id":"1",
+         "name":"OSN Ya Hala Oula HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514830702/tv%20icon/Yahala_Oula.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6142.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala Shabab",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831159/tv%20icon/osn_ya_hala_shabab_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6143.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Cinema 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831607/tv%20icon/osn_cinema_1.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6135.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Cinema 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831704/tv%20icon/osn_Cinema_2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6136.ts"
+      },
+      {
+         "id":"1",
+         "name":"OSN Comedy Central HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831845/tv%20icon/comedy-central.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6166.ts"
+      },
+      {
+         "id":"1",
+         "name":"dmc DRAMA HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832129/tv%20icon/dmc_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/7445.ts"
+      },
+      {
+         "id":"1",
+         "name":"MBC Masr",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832175/tv%20icon/mbc_ae_masr.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1044.ts"
+      },
+      {
+         "id":"1",
+         "name":"MBC DRAMA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832916/tv%20icon/mbc_ae_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/538.ts"
+      },
+      {
+         "id":"1",
+         "name":"MBC Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832500/tv%20icon/mbc_ae_drama_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/4056.ts"
+      },
+      {
+         "id":"1",
+         "name":"MBC Dramar +",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832680/tv%20icon/mbc-drama-plus.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/5817.ts"
+      },
+      {
+         "id":"1",
+         "name":"MBC BOLLYWOOD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832865/tv%20icon/mbc_ae_bollywood.png",
+         "group":"ARABIC",
          "quality":"",
          "type":" ",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3438.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6793.ts"
       },
       {
          "id":"1",
-         "name":"Sky AL Max",
-         "image":"",
-         "group":"Albania",
+         "name":" MBC 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832956/tv%20icon/mbc_ae_1_hd.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3436.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/536.ts"
       },
-{
-"id":"1",
- "name":"Film Nje HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3360.ts"
-},
-{
-"id":"1",
- "name":"Film Komedi HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3364.ts"
-},
-{
-"id":"1",
- "name":"Film Hits HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3361.ts"
-},
-{
-"id":"1",
- "name":"Film Autor HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3365.ts"
-},
-{
-"id":"1",
- "name":"Film Aksion HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3366.ts"
-},
-{
-"id":"1",
- "name":"FILM THRILLER" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2139.ts"
-},
-{
-"id":"1",
- "name":"FILM GOLD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2140.ts"
-},
-{
-"id":"1",
- "name":"FILM DY" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2141.ts"
-},
-{
-"id":"1",
- "name":"FILM DRAME" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2142.ts"
-},
-{
-"id":"1",
- "name":"Shqip Film" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16173.ts"
-},
-{
-"id":"1",
- "name":"Tring Comedy" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3401.ts"
-},
- {
+      {
          "id":"1",
-         "name":"Tring Life",
-         "image":"",
-         "group":"Albania",
+         "name":" MBC 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833041/tv%20icon/mbc_ae_2_masr.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3400.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/537.ts"
       },
-	   {
+      {
          "id":"1",
-         "name":"Tring Fantasy",
-         "image":"",
-         "group":"Albania",
+         "name":"MBC 4",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833080/tv%20icon/mbc_ae_4.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2126.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2502.ts"
       },
-	     {
+      {
          "id":"1",
-         "name":"Thriller",
-         "image":"",
-         "group":"Albania",
+         "name":"MBC Action",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833114/tv%20icon/mbc_ae_action.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3412.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2499.ts"
       },
-	     {
+      {
          "id":"1",
-         "name":"JOLLY HD",
-         "image":"",
-         "group":"Albania",
+         "name":"MBC MAX",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833175/tv%20icon/mbc_ae_max.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2138.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2501.ts"
       },
-{
-"id":"1",
- "name":"Kino Comedy HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3442.ts"
-},
- {
+      {
          "id":"1",
-         "name":"Tring 3",
-         "image":"",
-         "group":"Albania",
+         "name":"MBC Variety HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833247/tv%20icon/mbc_ae_variety.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3458.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/4054.ts"
       },
-	     {
+      
+      {
          "id":"1",
-         "name":"RTV 21 Mix HD",
-         "image":"",
-         "group":"Albania",
+         "name":"Nile Drama",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833925/tv%20icon/nil_drama.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3464.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6334.ts"
       },
-{
-"id":"1",
- "name":"Kino Action" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3443.ts"
-},
-{
-"id":"1",
- "name":"Sky Comedy" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3437.ts"
-},
-{
-"id":"1",
- "name":"Sky Aksion" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3435.ts"
-},
-{
-"id":"1",
- "name":"Kino ROMANCE HD" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3449.ts"
-},
-{
-"id":"1",
- "name":"TRING KOMEDI" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/2124.ts"
-},
-   {
+      {
          "id":"1",
-         "name":"Tring Max",
-         "image":"",
-         "group":"Albania",
+         "name":"ART CINEMA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834034/tv%20icon/art_cinema.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3399.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/978.ts"
       },
-{
-"id":"1",
- "name":"ALB Hindi" ,
-"image":"",
-         "group":"Albania",
-         "quality":"",
-         "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3415.ts"
-},
- {
+      {
          "id":"1",
-         "name":"KLAN HD",
-         "image":"",
-         "group":"Albania",
+         "name":"OSN Art Hekayat 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834083/tv%20icon/art_hekayat.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3421.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3379.ts"
       },
-	  
-{
+      {
          "id":"1",
-         "name":"KLAN Plus",
-         "image":"",
-         "group":"Albania",
+         "name":"ART HEKAYAT 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834129/tv%20icon/art_hekayat_2.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3422.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6036.ts"
       },
-	  
-	   {
+      {
          "id":"1",
-         "name":"Kino Thriller HD",
-         "image":"",
-         "group":"Albania",
+         "name":"ART AFLAM 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834189/tv%20icon/art_aflam_1.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3447.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/979.ts"
       },
-	   {
+      {
          "id":"1",
-         "name":"Kino Scifi HD",
-         "image":"",
-         "group":"Albania",
+         "name":"ART AFLAM 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834244/tv%20icon/art_aflam_2.png",
+         "group":"ARABIC",
          "quality":"",
-         "type":" ",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3448.ts"
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/980.ts"
       },
-	   {
+      
+      {
          "id":"1",
-         "name":"Kino Premiere 1 HD",
-         "image":"",
-         "group":"Albania",
+         "name":"Rotana Cinema HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834473/tv%20icon/rotana_cinema.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3444.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/5505.ts"
       },
-	  {
+      {
          "id":"1",
-         "name":"Kino Premiere 2 HD",
-         "image":"",
-         "group":"Albania",
+         "name":"Rotana Aflam HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834618/tv%20icon/rotana_aflam.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3445.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/5506.ts"
       },
-	  {
+      {
          "id":"1",
-         "name":"Kino Premiere 3 HD",
-         "image":"",
-         "group":"Albania",
+         "name":"Rotana Classic HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834674/tv%20icon/rotana_classic.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3446.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/5504.ts"
       },
-	   {
+      {
          "id":"1",
-         "name":"Kino Dark HD",
-         "image":"",
-         "group":"Albania",
+         "name":"SYRIA DRAMA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834857/tv%20icon/syria-drama.jpg",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3451.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6520.ts"
       },
-	   {
+      {
          "id":"1",
-         "name":"ShqipTV Stupcat HD",
-         "image":"",
-         "group":"Albania",
+         "name":"SeeVii Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835005/tv%20icon/SeeVii_Drama.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16172.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/7469.ts"
       },
-	   {
+      {
          "id":"1",
-         "name":"Shqip Fantazi",
-         "image":"",
-         "group":"Albania",
+         "name":"CBC Drama",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835204/tv%20icon/cbc_eg.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16164.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1021.ts"
       },
-	  
-	  {
+      {
          "id":"1",
-         "name":"Junior TV",
-         "image":"",
-         "group":"Albania",
+         "name":"NILE COMEDY",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835335/tv%20icon/nil_comedy.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3468.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6332.ts"
       },
-{
+     
+      {
          "id":"1",
-         "name":"JUG TV",
-         "image":"",
-         "group":"Albania",
+         "name":"Nile Cinema",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835519/tv%20icon/nile_cinema.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3459.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/6331.ts"
       },
-	  {
+      {
          "id":"1",
-         "name":"A1 SHQIPTARE",
-         "image":"",
-         "group":"Albania",
+         "name":"Panorama Film",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835928/tv%20icon/Panorama_Film.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3462.ts"
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1007.ts"
       },
-{
-"id":"1",
- "name":"Action" ,
-"image":"",
-         "group":"Albania",
+      {
+         "id":"1", 
+         "name":"Panorama Drama",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836310/tv%20icon/panorama_drama.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3418.ts"
-},
-{
-"id":"1",
- "name":"ShqipTV Drama HD" ,
-"image":"",
-         "group":"Albania",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1010.ts"
+      },
+     
+      {
+         "id":"1",
+         "name":"MOGA comedy",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836513/tv%20icon/moga-comedy.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16174.ts"
-},
-{
-"id":"1",
- "name":"ShqipTV Hindi HD" ,
-"image":"",
-         "group":"Albania",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1011.ts"
+      },
+      {
+         "id":"1",
+         "name":"Rotana Masria",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836556/tv%20icon/rotana_masriya_1.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16165.ts"
-},
-{
-"id":"1",
- "name":"ShqipTV Horror HD" ,
-"image":"",
-         "group":"Albania",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/551.ts"
+      },
+      {
+         "id":"1",
+         "name":"ZEE AFLAM",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836662/tv%20icon/zee_aflam.png",
+         "group":"ARABIC",
          "quality":"",
          "type":"",
-         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/16170.ts"
-}
-]
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1009.ts"
+      },
+      {
+         "id":"1",
+         "name":"Zee Alwan",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836790/tv%20icon/zee_alwan_in.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/1503.ts"
+      }
+   ]
 }
