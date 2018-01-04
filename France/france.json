@@ -6,6 +6,7 @@
          "name":"France 3 ",
          "image":"",
          "group":"France",
+		  "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/529.ts"
       },
@@ -705,6 +706,7 @@
          "name":"Plug RTL BE",
          "image":"",
          "group":"Belgium",
+		 "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3723.ts"
       },
@@ -1343,11 +1345,21 @@
          "type":"",
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/17198.ts"
       },
+	     {
+         "id":"1",
+         "name":"Nat Geo Wild HD",
+         "image":"",
+         "group":"France",
+         "quality":"",
+         "type":"#############",
+         "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/3727.ts"
+      },
       {
          "id":"1",
          "name":"My Cuisine FHD",
          "image":"",
          "group":"",
+		  "quality":"",
          "type":"",
          "url":"http://iptvfree1.com:6969/live/dsr0w@letsmail9.com/911P9ihhqB/17201.ts"
       }
