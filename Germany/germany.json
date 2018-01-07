@@ -1,2706 +1,2623 @@
 {
-"germany": [
-{
- "id":"ZDF DE",
- "name":"ZDF" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/928.ts"
-}
-{
- "id":"VOX HD DE" ,
- "name":"VOX" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/526.ts"
-}
-{
- "id":"TNT Serie DE" ,
- "name":"TNT Serie" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/936.ts"
-}
-{
- "id":"Super RTL HD 1080P DE" ,
- "name":"SUPER RTL HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/937.ts"
-}
-{
-"id":"1",
- "name":"Sky Universal HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/416.ts"
-}
-{
-"id":"1",
- "name":"Sky TNT Serie HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/417.ts"
-}
-{
- "id":"Sky Sport News DE" ,
- "name":"Sky Sport News HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/447.ts"
-}
-{
- "id":"Sky Sport 9 DE" ,
- "name":"Sky Sport 9 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3075.ts"
-}
-{
- "id":"Sky Sport 8 DE" ,
- "name":"Sky Sport 8 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3074.ts"
-}
-{
- "id":"Sky Sport 7 DE" ,
- "name":"Sky Sport 7 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3073.ts"
-}
-{
- "id":"Sky Sport 6 DE" ,
- "name":"Sky Sport 6 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3072.ts"
-}
-{
- "id":"Sky Sport 5 DE" ,
- "name":"Sky Sport 5 HD  ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3071.ts"
-}
-{
- "id":"Sky Sport 4 DE" ,
- "name":"Sky Sport 4 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3070.ts"
-}
-{
- "id":"Sky Sport 3 DE" ,
- "name":"Sky Sport 3 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3069.ts"
-}
-{
- "id":"Sky Sport 2 HD DE" ,
- "name":"Sky Sport 2 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/410.ts"
-}
-{
-"id":"1",
- "name":"Sky Sport 11 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3077.ts"
-}
-{
-"id":"1",
- "name":"Sky Sport 10 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3076.ts"
-}
-{
- "id":"Sky Sport 1 HD DE" ,
- "name":"Sky Sport 1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/409.ts"
-}
-{
- "id":"Sky Select 8 Live DE" ,
- "name":"Sky Select 8" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4100.ts"
-}
-{
- "id":"Sky Select 7 Live DE" ,
- "name":"Sky Select 7" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4099.ts"
-}
-{
- "id":"Sky Select 6 Live DE" ,
- "name":"SKY SELECT 6" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4098.ts"
-}
-{
- "id":"Sky Select 5 Live DE" ,
- "name":"SKY SELECT 5" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4097.ts"
-}
-{
- "id":"Sky Select 4 Live DE" ,
- "name":"SKY SELECT 4" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4096.ts"
-}
-{
- "id":"Sky Select 3 Live DE" ,
- "name":"SKY SELECT 3" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4095.ts"
-}
-{
- "id":"Sky Select 2 Live DE" ,
- "name":"SKY SELECT 2" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4094.ts"
-}
-{
- "id":"Sky Select 1 Live DE" ,
- "name":"SKY SELECT 1" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4093.ts"
-}
-{
- "id":"Sky Hits HD 1080P DE" ,
- "name":"Sky Hits HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/414.ts"
-}
-{
- "id":"Sky Emotion DE" ,
- "name":"Sky Emotion HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/418.ts"
-}
-{
-"id":"1",
- "name":"Sky DMAX HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/453.ts"
-}
-{
-"id":"1",
- "name":"Sky Disney HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/419.ts"
-}
-{
- "id":"Sky Comedy DE" ,
- "name":"Sky Comedy HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/415.ts"
-}
-{
- "id":"Sky Cinema HD DE" ,
- "name":"Sky Cinema HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/413.ts"
-}
-{
-"id":"1",
- "name":"SKY CINEMA  24" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-  "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/932.ts"
-}
-{
-"id":"1",
- "name":"Sky Cinema  1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/448.ts"
-}
-{
- "id":"Sky Sport Bundesliga 9 DE" ,
- "name":"Sky BUNDESLIGA 9 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3085.ts"
-}
-{
- "id":"Sky Sport Bundesliga 8 DE" ,
- "name":"Sky BUNDESLIGA 8 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3084.ts"
-}
-{
-"id":"1",
- "name":"Sky BUNDESLIGA 7 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3083.ts"
-}
-{
-"id":"1",
- "name":"Sky BUNDESLIGA 6 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3082.ts"
-}
-{
-"id":"1",
- "name":"Sky BUNDESLIGA 5 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3081.ts"
-}
-{
-"id":"1",
- "name":"Sky BUNDESLIGA 4 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3080.ts"
-}
-{
-"id":"1",
- "name":"Sky BUNDESLIGA 3 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3078.ts"
-}
-{
-"id":"1",
- "name":"SKY BUNDESLIGA 2 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3079.ts"
-}
-{
-"id":"1",
- "name":"Sky BUNDESLIGA 10 HD ( During Games only )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3086.ts"
-}
-{
-"id":"1",
- "name":"Sky Bundesliga 1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/408.ts"
-}
-{
- "id":"Sky Atlantic HD 1080P DE" ,
- "name":"SKY ATLANTIC HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/933.ts"
-}
-{
- "id":"Sky Action HD DE" ,
- "name":"Sky Action HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/412.ts"
-}
-{
-"id":"1",
- "name":"sat 1 emotions" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/938.ts"
-}
-{
- "id":"SAT.1 HD DE" ,
- "name":"Sat 1" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/939.ts"
-}
-{
- "id":"RTL NITRO DE" ,
- "name":"RTL NITRO" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/940.ts"
-}
-{
- "id":"RTL HD 1080P DE" ,
- "name":"RTL" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/942.ts"
-}
-{
-"id":"1",
- "name":"Pro7" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
- Pro7,
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/943.ts"
-}
-{
- "id":"ORF 2 DE" ,
- "name":"Orf 2" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/944.ts"
-}
-{
-"id":"1",
- "name":"Orf 1" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/945.ts"
-}
-{
-"id":"1",
- "name":"Nickelodeon" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/449.ts"
-}
-{
- "id":"National Geographic HD 1080P DE" ,
- "name":"National Geographic HD Germany" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/450.ts"
-}
-{
- "id":"Nat Geo Wild HD 1080P DE" ,
- "name":"NatGeo Wild HD Germany" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/451.ts"
-}
-{
- "id":"N24 DE" ,
- "name":"N24" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/946.ts"
-}
-{
-"id":"1",
- "name":"MGM HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/948.ts"
-}
-{
- "id":"KiKa DE" ,
- "name":"Kika" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/949.ts"
-}
-{
- "id":"kabel eins DE" ,
- "name":"Kabel 1" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/929.ts"
-}
-{
- "id":"Disney XD DE" ,
- "name":"Disney XD Deutschland" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/454.ts"
-}
-{
- "id":"Disney Junior DE" ,
- "name":"Disney Junior" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/455.ts"
-}
-{
- "id":"Disney Cinemagic HD DE" ,
- "name":"Disney Cinemagic HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/950.ts"
-}
-{
- "id":"Discovery Channel HD DE" ,
- "name":"Disney Channel HD Germany" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/457.ts"
-}
-{
-"id":"1",
- 
- "name":"Discovery HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/458.ts"
-}
-{
- "id":"Deluxe Music HD 1080P DE" ,
- "name":"Deluxe Music HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/459.ts"
-}
-{
- "id":"CLASSICA DE" ,
- "name":"Classica" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/460.ts"
-}
-{
- "id":"Cartoon Network DE" ,
- "name":"Cartoon Network Germany" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/461.ts"
-}
-{
-"id":"1",
- 
- "name":"Bundesliga 1" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/951.ts"
-}
-{
- "id":"Boomerang DE" ,
- "name":"Boomerang" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/952.ts"
-}
-{
- "id":"AXN DE" ,
- "name":"AXN HD Germany" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/462.ts"
-}
-{
-"id":"1",
- 
- "name":"ARD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/927.ts"
-}
-{
- "id":"13th Street DE" ,
- "name":"13th Street" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/527.ts"
-}
-{
- "id":"3sat DE" ,
- "name":"3sat" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6319.ts"
-}
-{
-"id":"1",
- 
- "name":"3SAT HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6320.ts"
-}
-{
- "id":"Arte HD DE" ,
- "name":"Arte" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6321.ts"
-}
-{
- "id":"Das Erste HD DE" ,
- "name":"DAS ERSTE HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6322.ts"
-}
-{
- "id":"kabel eins DE" ,
- "name":"Kabel Eins" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6324.ts"
-}
-{
- "id":"PHOENIX DE" ,
- "name":"PHOENIX" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6325.ts"
-}
-{
- "id":"SAT.1 Gold DE" ,
- "name":"Sat 1 Gold" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6326.ts"
-}
-{
- "id":"ServusTV Deutschland DE" ,
- "name":"SERVUS TV HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6327.ts"
-}
-{
-"id":"1",
- 
- "name":"VIVA" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6323.ts"
-}
-{
-"id":"1",
- 
- "name":"WDR HD DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6328.ts"
-}
-{
- "id":"zdf_neo DE" ,
- "name":"ZDF NEO HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6329.ts"
-}
-{
- "id":"Zee One DE" ,
- "name":"ZEE ONE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6330.ts"
-}
-{
- "id":"Sky Sport 1 HD DE" ,
- "name":"VIP Sky Sport 1 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6746.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 10 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6755.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 11 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6756.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 2 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6747.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 3 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6748.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 4 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-  "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6749.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 5 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6750.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 6 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6751.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 7 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6752.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 8 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6753.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Sky Sport 9 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6754.ts"
-}
-{
- "id":"Sky Sport News DE" ,
- "name":"VIP Sky Sport News HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6745.ts"
-}
-{
- "id":"Sky Sport Bundesliga 1 HD DE" ,
- "name":"Sky Sport Bundesliga 1 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6794.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport Bundesliga 10 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6803.ts"
-}
-{
- "id":"Sky Sport Bundesliga 2 DE" ,
- "name":"Sky Sport Bundesliga 2 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6795.ts"
-}
-{
- "id":"Sky Sport Bundesliga 3 DE" ,
- "name":"Sky Sport Bundesliga 3 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6796.ts"
-}
-{
- "id":"Sky Sport Bundesliga 4 DE" ,
- "name":"Sky Sport Bundesliga 4 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6797.ts"
-}
-{
- "id":"Sky Sport Bundesliga 5 DE" ,
- "name":"Sky Sport Bundesliga 5 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6798.ts"
-}
-{
- "id":"Sky Sport Bundesliga 6 DE" ,
- "name":"Sky Sport Bundesliga 6 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6799.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport Bundesliga 7 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6800.ts"
-}
-{
- "id":"Sky Sport Bundesliga 8 DE" ,
- "name":"Sky Sport Bundesliga 8 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6801.ts"
-}
-{
- "id":"Sky Sport Bundesliga 9 DE" ,
- "name":"Sky Sport Bundesliga 9 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6802.ts"
-}
-{
- "id":"Sport1 DE" ,
- "name":"Sport 1 US" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6982.ts"
-}
-{
- "id":"SPORT1 HD 1080P DE" ,
- "name":"Sport 1+ HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6980.ts"
-}
-{
- "id":"sportdigital DE" ,
- "name":"Sport Digital HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6981.ts"
-}
-{
-"id":"1",
- 
- "name":"Pro7 Fun HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7056.ts"
-}
-{
-"id":"1",
- 
- "name":"Pro7 Maxx HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7055.ts"
-}
-{
- "id":"1-2-3.tv HD 1080P DE" ,
- "name":"1-2-3.tv HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7230.ts"
-}
-{
- "id":"ANIXE HD 1080P DE" ,
- "name":"ANIXE HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7243.ts"
-}
-{
- "id":"Channel21 HD 1080P DE" ,
- "name":"Channel21 HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7242.ts"
-}
-{
- "id":"Hr-fernsehen HD 1080P DE" ,
- "name":"Hr-fernsehen HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7232.ts"
-}
-{
- "id":"HSE24 EXTRA HD 1080P DE" ,
- "name":"HSE24 EXTRA HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7231.ts"
-}
-{
- "id":"MDR S-Anhalt HD 1080P DE" ,
- "name":"MDR S-Anhalt HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7228.ts"
-}
-{
- "id":"MDR Sachsen HD 1080P DE" ,
- "name":"MDR Sachsen HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7227.ts"
-}
-{
- "id":"MDR Thüringen HD 1080P DE" ,
- "name":"MDR Thüringen HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7226.ts"
-}
-{
-"id":"1",
- 
- "name":"Mediaspar" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7225.ts"
-}
-{
- "id":"MTV HD 1080P DE" ,
- "name":"MTV HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7247.ts"
-}
-{
- "id":"ProSieben HD 1080P DE" ,
- "name":"ProSieben HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7249.ts"
-}
-{
- "id":"ProSieben MAXX DE" ,
- "name":"ProSieben Maxx HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7244.ts"
-}
-{
- "id":"QVC BEAUTY&STYLE DE" ,
- "name":"QVC BEAUTY & STYLE HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7238.ts"
-}
-{
- "id":"QVC HD 1080P DE" ,
- "name":"QVC HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7237.ts"
-}
-{
- "id":"QVC PLUS HD 1080P DE" ,
- "name":"QVC PLUS HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7236.ts"
-}
-{
- "id":"Rbb Berlin HD 1080P DE" ,
- "name":"Rbb Berlin HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7235.ts"
-}
-{
- "id":"rbb Brandenburg HD 1080P DE" ,
- "name":"rbb Brandenburg HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7234.ts"
-}
-{
- "id":"RD HD 1080P DE" ,
- "name":"RD HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7233.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky 3D ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7222.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport Fanzone HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7224.ts"
-}
-{
- "id":"SPIEGEL TV Wissen HD 1080P DE" ,
- "name":"SPIEGEL TV Wissen HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7240.ts"
-}
-{
- "id":"SPORT1 HD 1080P DE" ,
- "name":"SPORT1 HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7223.ts"
-}
-{
-"id":"1",
- 
- "name":"SR Fernsehen HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7241.ts"
-}
-{
- "id":"tagesschau24 HD 1080P DE" ,
- "name":"tagesschau24 HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7239.ts"
-}
-{
- "id":"TLC HD 1080P DE" ,
- "name":"TLC HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7246.ts"
-}
-{
- "id":"TNT Comedy HD DE" ,
- "name":"TNT Comedy HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7248.ts"
-}
-{
- "id":"Zee One DE" ,
- "name":"Zee One HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7250.ts"
-}
-{
-"id":"1",
- 
- "name":" Sky Cinema Hits" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7266.ts"
-}
-{
- "id":"E! Entertainm HD DE" ,
- "name":"E! Entertainm HD ( 1080P )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7264.ts"
-}
-{
- "id":"Motorvision TV DE" ,
- "name":"Motorvision TV" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7263.ts"
-}
-{
- "id":"Sky Cinema Family HD DE" ,
- "name":"Sky Cinema Family" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7265.ts"
-}
-{
- "id":"E! Entertainm HD DE" ,
- "name":"E! Entertainement" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7267.ts"
-}
-{
- "id":"Sky Arts HD DE" ,
- "name":"Sky Arts HD ( EN AUDIO )" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7262.ts"
-}
-{
- "id":"TNT Film DE" ,
- "name":"DE : TNT Film TCM" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/510.ts"
-}
-{
- "id":"TNT Comedy HD DE" ,
- "name":"DE : TNT Comedy" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3473.ts"
-}
-{
- "id":"Syfy DE" ,
- "name":"DE : Syfy" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/930.ts"
-}
-{
- "id":"SPORT1 HD 1080P DE" ,
- "name":"DE : Sport 1  HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/511.ts"
-}
-{
- "id":"Sky Sport Austria DE" ,
- "name":"DE : sky sport austria" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/931.ts"
-}
-{
- "id":"Sky Nostalgie DE" ,
- "name":"DE : Sky Nostalgie" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/513.ts"
-}
-{
- "id":"Sky Krimi DE" ,
- "name":"DE : Sky Krimi" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/514.ts"
-}
-{
- "id":"Sky Atlantic HD DE" ,
- "name":"DE : Sky Atlantic HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/515.ts"
-}
-{
- "id":"Sky Atlantic HD DE" ,
- "name":"DE : Sky atlantic" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/935.ts"
-}
-{
- "id":"RTL II DE" ,
- "name":"DE : RTL2" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/941.ts"
-}
-{
- "id":"RTL Passion DE" ,
- "name":"DE : RTL Passion" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/516.ts"
-}
-{
- "id":"RTL Living DE" ,
- "name":"DE : RTL Living" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/517.ts"
-}
-{
- "id":"RTL HD 1080P DE" ,
- "name":"DE : RTL HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3607.ts"
-}
-{
- "id":"RTL Crime HD DE" ,
- "name":"DE : RTL Crime HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/518.ts"
-}
-{
- "id":"FOX HD 1080P DE" ,
- "name":"DE : Fox HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/519.ts"
-}
-{
- "id":"Eurosport 1 HD DE" ,
- "name":"DE : Eurosport 1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/521.ts"
-}
-{
- "id":"Disney Cinemagic HD 1080P DE" ,
- "name":"DE : Disney Cinemagic HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/523.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 3 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3614.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 9 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3620.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 8 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3619.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 7 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3618.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 6 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3617.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 5 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3616.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 4 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3615.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 11 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3621.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany Sport 10 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3622.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 9 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3630.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 8 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3629.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 7 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3628.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 6 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3627.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 5 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3626.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 4 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3625.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 3 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3624.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 2 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3623.ts"
-}
-{
-"id":"1",
- 
- "name":"DE | Sky Germany BUNDESLIGA 10 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3631.ts"
-}
-{
- "id":"13th Street HD 1080P DE" ,
- "name":"DE VIP: 13th Street HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6290.ts"
-}
-{
- "id":"A&E HD 1080P DE" ,
- "name":"DE VIP: A&E HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6291.ts"
-}
-{
- "id":"Animal Planet HD 1080P DE" ,
- "name":"DE VIP: Animal Planet HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6292.ts"
-}
-{
- "id":"AXN DE" ,
- "name":"DE VIP: AXN HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6293.ts"
-}
-{
-"id":"1",
- 
- "name":"DE VIP: Discovery HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6294.ts"
-}
-{
- "id":"Disney Channel HD 1080P DE" ,
- "name":"DE VIP: Disney Channel HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6295.ts"
-}
-{
- "id":"Disney Cinemagic HD 1080P DE" ,
- "name":"DE VIP: Disney Cinemagic HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6296.ts"
-}
-{
- "id":"FOX HD DE" ,
- "name":"DE VIP: FOX HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6297.ts"
-}
-{
- "id":"History HD 1080P DE" ,
- "name":"DE VIP: History HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6298.ts"
-}
-{
-"id":"1",
- 
- "name":"DE VIP: MGM HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6299.ts"
-}
-{
- "id":"n-tv HD 1080P DE" ,
- "name":"DE VIP: N-TV HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6300.ts"
-}
-{
- "id":"Nat Geo Wild HD 1080P DE" ,
- "name":"DE VIP: Nat Geo Wild HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6301.ts"
-}
-{
-"id":"1",
- 
- "name":"DE VIP: NatGeo HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6302.ts"
-}
-{
- "id":"National Geographic HD 1080P DE" ,
- "name":"DE VIP: National Geographic HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6303.ts"
-}
-{
-"id":"1",
- 
- "name":"DE VIP: PRO 7 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6304.ts"
-}
-{
- "id":"ProSieben Maxx HD 1080P DE" ,
- "name":"DE VIP: ProSieben Maxx HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6305.ts"
-}
-{
- "id":"RTL II HD 1080P DE" ,
- "name":"DE VIP: RTL 2 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6306.ts"
-}
-{
-"id":"1",
- 
- "name":"DE VIP: RTL HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6307.ts"
-}
-{
- "id":"RTL HD 1080P DE" ,
- "name":"DE VIP: RTL NITRO HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6308.ts"
-}
-{
- "id":"SAT.1 HD DE" ,
- "name":"DE VIP: SAT.1 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6309.ts"
-}
-{
- "id":"SIXX HD 1080P DE" ,
- "name":"DE VIP: sixx HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6310.ts"
-}
-{
- "id":"Sky Action HD 1080P DE" ,
- "name":"DE VIP: Sky Action HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6311.ts"
-}
-{
- "id":"Sky Atlantic HD 1080P DE" ,
- "name":"DE VIP: Sky Atlantic HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6312.ts"
-}
-{
- "id":"Sky Cinema HD 1080P DE" ,
- "name":"DE VIP: Sky Cinema HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6313.ts"
-}
-{
- "id":"Sky Hits HD 1080P DE" ,
- "name":"DE VIP: Sky Hits HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6314.ts"
-}
-{
- "id":"Super RTL HD 1080P DE" ,
- "name":"DE VIP: SUPER RTL HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6315.ts"
-}
-{
- "id":"Syfy HD 1080P DE" ,
- "name":"DE VIP: SyFy HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6316.ts"
-}
-{
- "id":"TNT Serie HD 1080P DE" ,
- "name":"DE VIP: TNT Serie HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6317.ts"
-}
-{
- "id":"VOX HD 1080P DE" ,
- "name":"DE VIP: VOX HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6318.ts"
-}
-
-{
- "id":"Sky Sport 1 HD DE" ,
- "name":"Sky Sport 1 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7524.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport 10 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7515.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport 11 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7514.ts"
-}
-{
- "id":"Sky Sport 2 HD DE" ,
- "name":"Sky Sport 2 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7523.ts"
-}
-{
- "id":"Sky Sport 3 DE" ,
- "name":"Sky Sport 3 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7522.ts"
-}
-{
- "id":"Sky Sport 4 DE" ,
- "name":"Sky Sport 4 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7521.ts"
-}
-{
- "id":"Sky Sport 5 DE" ,
- "name":"Sky Sport 5 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7520.ts"
-}
-{
- "id":"Sky Sport 6 DE" ,
- "name":"Sky Sport 6 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7519.ts"
-}
-{
- "id":"Sky Sport 7 DE" ,
- "name":"Sky Sport 7 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7518.ts"
-}
-{
- "id":"Sky Sport 8 DE" ,
- "name":"Sky Sport 8 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7517.ts"
-}
-{
- "id":"Sky Sport 9 DE" ,
- "name":"Sky Sport 9 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7516.ts"
-}
-{
- "id":"Sky Sport Bundesliga 1 HD DE" ,
- "name":"Sky Sport Bundesliga 1 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7534.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport Bundesliga 10 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7533.ts"
-}
-{
- "id":"Sky Sport Bundesliga 2 DE" ,
- "name":"Sky Sport Bundesliga 2 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7532.ts"
-}
-{
- "id":"Sky Sport Bundesliga 3 DE" ,
- "name":"Sky Sport Bundesliga 3 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7531.ts"
-}
-{
- "id":"Sky Sport Bundesliga 4 DE" ,
- "name":"Sky Sport Bundesliga 4 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7530.ts"
-}
-{
- "id":"Sky Sport Bundesliga 5 DE" ,
- "name":"Sky Sport Bundesliga 5 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7529.ts"
-}
-{
- "id":"Sky Sport Bundesliga 6 DE" ,
- "name":"Sky Sport Bundesliga 6 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7528.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Sport Bundesliga 7 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7527.ts"
-}
-{
- "id":"Sky Sport Bundesliga 8 DE" ,
- "name":"Sky Sport Bundesliga 8 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7526.ts"
-}
-{
- "id":"Sky Sport Bundesliga 9 DE" ,
- "name":"Sky Sport Bundesliga 9 HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7525.ts"
-}
-{
- "id":"Sky Sport News DE" ,
- "name":"Sky Sport News HD 1080P" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7513.ts"
-}
-
-{
- "id":"Disney Junior HD DE" ,
- "name":"VIP Disney Junior HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7591.ts"
-}
-{
- "id":"Eurosport 2 HD DE" ,
- "name":"VIP Eurosport 2 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7590.ts"
-}
-{
- "id":"MDR S-Anhalt HD 1080P DE" ,
- "name":"VIP MDR S-Anhalt HD 1080P DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7576.ts"
-}
-{
- "id":"MDR Sachsen HD 1080P DE" ,
- "name":"VIP MDR Sachsen HD 1080P DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7575.ts"
-}
-{
- "id":"MDR Thüringen HD 1080P DE" ,
- "name":"VIP MDR Thüringen HD 1080P DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7574.ts"
-}
-{
-"id":"1",
- 
- "name":"VIP Mediaspar HD 1080P DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7573.ts"
-}
-{
- "id":"MTV HD 1080P DE" ,
- "name":"VIP MTV HD 1080P DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7577.ts"
-}
-{
- "id":"RTL Crime HD DE" ,
- "name":"VIP RTL Crime HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7589.ts"
-}
-{
- "id":"SAT.1 HD DE" ,
- "name":"VIP SAT.1 HD 1080P DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7578.ts"
-}
-{
- "id":"Sky 1 HD DE" ,
- "name":"VIP Sky 1 HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7579.ts"
-}
-{
- "id":"Sky Arts HD DE" ,
- "name":"VIP Sky Arts HD (1080P)" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7580.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Cinema  1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7582.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Cinema  24 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7581.ts"
-}
-{
- "id":"Sky Cinema Family HD DE" ,
- "name":"Sky Cinema Family HD" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7583.ts"
-}
-{
- "id":"Sky Sport Austria HD DE" ,
- "name":"Sky Sport Austria HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7584.ts"
-}
-{
-"id":"1",
- 
- "name":"SRF 1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7587.ts"
-}
-{
-"id":"1",
- 
- "name":"SRF Zwei DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7586.ts"
-}
-{
-"id":"1",
- 
- "name":"SWR DE" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7585.ts"
-}
-{
- "id":"Universal Channel HD DE" ,
- "name":"Universal Channel HD" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"VIP",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7588.ts"
-}
-
-{
- "id":"TLC DE" ,
- "name":"TLC HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/16747.ts"
-}
-{
- "id":"ZDF DE" ,
- "name":"ZDF FHD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8862.ts"
-}
-
-{
-"id":"1",
- 
- "name":"KABEL 1 HD 1080" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8758.ts"
-}
-{
- "id":"PHOENIX DE" ,
- "name":"Phoenix HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8760.ts"
-}
-{
- "id":"Romance TV DE" ,
- "name":"ROMANCE TV" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8759.ts"
-}
-{
- "id":"RTL II HD 1080P DE" ,
- "name":"RTL II YOU HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8761.ts"
-}
-{
- "id":"SIXX HD 1080P DE" ,
- "name":"SIXX HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8756.ts"
-}
-{
- "id":"VOX HD DE" ,
- "name":"VOX HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8757.ts"
-}
-
-
-{
- "id":"Sky Sport 1 HD DE" ,
- "name":"*Sky Sport 1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8276.ts"
-}
-{
- "id":"Sky Sport 2 DE" ,
- "name":"*Sky Sport 2 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8275.ts"
-}
-{
- "id":"Sky Sport 1 HD DE" ,
- "name":"Sky Sport 1 " ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8274.ts"
-}
-{
-"id":"1",
- 
- "name":"SKY SPORT 10 HD " ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8262.ts"
-}
-{
-"id":"1",
- 
- "name":"SKY SPORT 11 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8261.ts"
-}
-{
- "id":"Sky Sport 2 DE" ,
- "name":"Sky Sport 2 FHD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8273.ts"
-}
-{
- "id":"Sky Sport 3 DE" ,
- "name":"Sky Sport 3 FHD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8272.ts"
-}
-{
- "id":"Sky Sport 3 DE" ,
- "name":"SKY SPORT 3 HD " ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8271.ts"
-}
-{
- "id":"Sky Sport 4 DE" ,
- "name":"Sky Sport 4 FHD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8270.ts"
-}
-{
- "id":"Sky Sport 4 DE" ,
- "name":"SKY SPORT 4 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8269.ts"
-}
-{
- "id":"Sky Sport 5 DE" ,
- "name":"Sky Sport 5 FHD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8268.ts"
-}
-{
- "id":"Sky Sport 5 DE" ,
- "name":"SKY SPORT 5 HD " ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8267.ts"
-}
-{
- "id":"Sky Sport 6 DE" ,
- "name":"SKY SPORT 6 HD " ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8266.ts"
-}
-{
- "id":"Sky Sport 7 DE" ,
- "name":"SKY SPORT 7 HD " ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8265.ts"
-}
-{
- "id":"Sky Sport 8 DE" ,
- "name":"SKY SPORT 8 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8264.ts"
-}
-{
- "id":"Sky Sport 9 DE" ,
- "name":"SKY SPORT 9 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8263.ts"
-}
-
-{
- "id":"Eurosport 2 DE" ,
- "name":"Eurosport360 2 " ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8107.ts"
-}
-{
-"id":"1",
- 
- "name":"Eurosport360 4" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8106.ts"
-}
-{
-"id":"1",
- 
- "name":"Eurosport360 5 " ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8105.ts"
-}
-{
-"id":"1",
- 
- "name":"Eurosport360 6" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8104.ts"
-}
-{
-"id":"1",
- 
- "name":"Eurosport360 7" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8103.ts"
-}
-{
-"id":"1",
- 
- "name":"Eurosport360 8" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8102.ts"
-}
-{
-"id":"1",
- 
- "name":"Eurosport360 9" ,
-"image":"" ,
-"group":"German",
- "quality":"4k",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8101.ts"
-}
-{
- "id":"Sky Sport Bundesliga 1 HD DE" ,
- "name":"Sky Bundesliga 1 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8145.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 10 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8136.ts"
-}
-{
- "id":"Sky Sport Bundesliga 2 DE" ,
- "name":"Sky Bundesliga 2 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8144.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 3 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8143.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 4 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8142.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 5 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8141.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 6 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8140.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 7 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8139.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 8 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8138.ts"
-}
-{
-"id":"1",
- 
- "name":"Sky Bundesliga 9 HD" ,
-"image":"" ,
-"group":"German",
- "quality":"",
-  "type":"",
-"url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8137.ts"
-}
-]
+   "germany":[
+      {
+         "id":"ZDF DE",
+         "name":"ZDF",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/928.ts"
+      },
+      {
+         "id":"VOX HD DE",
+         "name":"VOX",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/526.ts"
+      },
+      {
+         "id":"TNT Serie DE",
+         "name":"TNT Serie",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/936.ts"
+      },
+      {
+         "id":"Super RTL HD 1080P DE",
+         "name":"SUPER RTL HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/937.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Universal HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/416.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky TNT Serie HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/417.ts"
+      },
+      {
+         "id":"Sky Sport News DE",
+         "name":"Sky Sport News HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/447.ts"
+      },
+      {
+         "id":"Sky Sport 9 DE",
+         "name":"Sky Sport 9 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3075.ts"
+      },
+      {
+         "id":"Sky Sport 8 DE",
+         "name":"Sky Sport 8 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3074.ts"
+      },
+      {
+         "id":"Sky Sport 7 DE",
+         "name":"Sky Sport 7 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3073.ts"
+      },
+      {
+         "id":"Sky Sport 6 DE",
+         "name":"Sky Sport 6 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3072.ts"
+      },
+      {
+         "id":"Sky Sport 5 DE",
+         "name":"Sky Sport 5 HD  ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3071.ts"
+      },
+      {
+         "id":"Sky Sport 4 DE",
+         "name":"Sky Sport 4 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3070.ts"
+      },
+      {
+         "id":"Sky Sport 3 DE",
+         "name":"Sky Sport 3 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3069.ts"
+      },
+      {
+         "id":"Sky Sport 2 HD DE",
+         "name":"Sky Sport 2 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/410.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport 11 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3077.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport 10 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3076.ts"
+      },
+      {
+         "id":"Sky Sport 1 HD DE",
+         "name":"Sky Sport 1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/409.ts"
+      },
+      {
+         "id":"Sky Select 8 Live DE",
+         "name":"Sky Select 8",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4100.ts"
+      },
+      {
+         "id":"Sky Select 7 Live DE",
+         "name":"Sky Select 7",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4099.ts"
+      },
+      {
+         "id":"Sky Select 6 Live DE",
+         "name":"SKY SELECT 6",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4098.ts"
+      },
+      {
+         "id":"Sky Select 5 Live DE",
+         "name":"SKY SELECT 5",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4097.ts"
+      },
+      {
+         "id":"Sky Select 4 Live DE",
+         "name":"SKY SELECT 4",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4096.ts"
+      },
+      {
+         "id":"Sky Select 3 Live DE",
+         "name":"SKY SELECT 3",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4095.ts"
+      },
+      {
+         "id":"Sky Select 2 Live DE",
+         "name":"SKY SELECT 2",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4094.ts"
+      },
+      {
+         "id":"Sky Select 1 Live DE",
+         "name":"SKY SELECT 1",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/4093.ts"
+      },
+      {
+         "id":"Sky Hits HD 1080P DE",
+         "name":"Sky Hits HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/414.ts"
+      },
+      {
+         "id":"Sky Emotion DE",
+         "name":"Sky Emotion HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/418.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky DMAX HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/453.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Disney HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/419.ts"
+      },
+      {
+         "id":"Sky Comedy DE",
+         "name":"Sky Comedy HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/415.ts"
+      },
+      {
+         "id":"Sky Cinema HD DE",
+         "name":"Sky Cinema HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/413.ts"
+      },
+      {
+         "id":"1",
+         "name":"SKY CINEMA  24",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/932.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Cinema  1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/448.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 9 DE",
+         "name":"Sky BUNDESLIGA 9 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3085.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 8 DE",
+         "name":"Sky BUNDESLIGA 8 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3084.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky BUNDESLIGA 7 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3083.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky BUNDESLIGA 6 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3082.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky BUNDESLIGA 5 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3081.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky BUNDESLIGA 4 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3080.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky BUNDESLIGA 3 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3078.ts"
+      },
+      {
+         "id":"1",
+         "name":"SKY BUNDESLIGA 2 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3079.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky BUNDESLIGA 10 HD ( During Games only )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3086.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/408.ts"
+      },
+      {
+         "id":"Sky Atlantic HD 1080P DE",
+         "name":"SKY ATLANTIC HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/933.ts"
+      },
+      {
+         "id":"Sky Action HD DE",
+         "name":"Sky Action HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/412.ts"
+      },
+      {
+         "id":"1",
+         "name":"sat 1 emotions",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/938.ts"
+      },
+      {
+         "id":"SAT.1 HD DE",
+         "name":"Sat 1",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/939.ts"
+      },
+      {
+         "id":"RTL NITRO DE",
+         "name":"RTL NITRO",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/940.ts"
+      },
+      {
+         "id":"RTL HD 1080P DE",
+         "name":"RTL",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/942.ts"
+      },
+      {
+         "id":"1",
+         "name":"Pro7",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/943.ts"
+      },
+      {
+         "id":"ORF 2 DE",
+         "name":"Orf 2",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/944.ts"
+      },
+      {
+         "id":"1",
+         "name":"Orf 1",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/945.ts"
+      },
+      {
+         "id":"1",
+         "name":"Nickelodeon",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/449.ts"
+      },
+      {
+         "id":"National Geographic HD 1080P DE",
+         "name":"National Geographic HD Germany",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/450.ts"
+      },
+      {
+         "id":"Nat Geo Wild HD 1080P DE",
+         "name":"NatGeo Wild HD Germany",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/451.ts"
+      },
+      {
+         "id":"N24 DE",
+         "name":"N24",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/946.ts"
+      },
+      {
+         "id":"1",
+         "name":"MGM HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/948.ts"
+      },
+      {
+         "id":"KiKa DE",
+         "name":"Kika",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/949.ts"
+      },
+      {
+         "id":"kabel eins DE",
+         "name":"Kabel 1",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/929.ts"
+      },
+      {
+         "id":"Disney XD DE",
+         "name":"Disney XD Deutschland",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/454.ts"
+      },
+      {
+         "id":"Disney Junior DE",
+         "name":"Disney Junior",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/455.ts"
+      },
+      {
+         "id":"Disney Cinemagic HD DE",
+         "name":"Disney Cinemagic HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/950.ts"
+      },
+      {
+         "id":"Discovery Channel HD DE",
+         "name":"Disney Channel HD Germany",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/457.ts"
+      },
+      {
+         "id":"1",
+         "name":"Discovery HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/458.ts"
+      },
+      {
+         "id":"Deluxe Music HD 1080P DE",
+         "name":"Deluxe Music HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/459.ts"
+      },
+      {
+         "id":"CLASSICA DE",
+         "name":"Classica",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/460.ts"
+      },
+      {
+         "id":"Cartoon Network DE",
+         "name":"Cartoon Network Germany",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/461.ts"
+      },
+      {
+         "id":"1",
+         "name":"Bundesliga 1",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/951.ts"
+      },
+      {
+         "id":"Boomerang DE",
+         "name":"Boomerang",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/952.ts"
+      },
+      {
+         "id":"AXN DE",
+         "name":"AXN HD Germany",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/462.ts"
+      },
+      {
+         "id":"1",
+         "name":"ARD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/927.ts"
+      },
+      {
+         "id":"13th Street DE",
+         "name":"13th Street",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/527.ts"
+      },
+      {
+         "id":"3sat DE",
+         "name":"3sat",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6319.ts"
+      },
+      {
+         "id":"1",
+         "name":"3SAT HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6320.ts"
+      },
+      {
+         "id":"Arte HD DE",
+         "name":"Arte",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6321.ts"
+      },
+      {
+         "id":"Das Erste HD DE",
+         "name":"DAS ERSTE HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6322.ts"
+      },
+      {
+         "id":"kabel eins DE",
+         "name":"Kabel Eins",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6324.ts"
+      },
+      {
+         "id":"PHOENIX DE",
+         "name":"PHOENIX",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6325.ts"
+      },
+      {
+         "id":"SAT.1 Gold DE",
+         "name":"Sat 1 Gold",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6326.ts"
+      },
+      {
+         "id":"ServusTV Deutschland DE",
+         "name":"SERVUS TV HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6327.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIVA",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6323.ts"
+      },
+      {
+         "id":"1",
+         "name":"WDR HD DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6328.ts"
+      },
+      {
+         "id":"zdf_neo DE",
+         "name":"ZDF NEO HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6329.ts"
+      },
+      {
+         "id":"Zee One DE",
+         "name":"ZEE ONE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6330.ts"
+      },
+      {
+         "id":"Sky Sport 1 HD DE",
+         "name":"VIP Sky Sport 1 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6746.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 10 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6755.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 11 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6756.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 2 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6747.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 3 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6748.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 4 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6749.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 5 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6750.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 6 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6751.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 7 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6752.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 8 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6753.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Sky Sport 9 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6754.ts"
+      },
+      {
+         "id":"Sky Sport News DE",
+         "name":"VIP Sky Sport News HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6745.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 1 HD DE",
+         "name":"Sky Sport Bundesliga 1 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6794.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport Bundesliga 10 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6803.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 2 DE",
+         "name":"Sky Sport Bundesliga 2 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6795.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 3 DE",
+         "name":"Sky Sport Bundesliga 3 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6796.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 4 DE",
+         "name":"Sky Sport Bundesliga 4 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6797.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 5 DE",
+         "name":"Sky Sport Bundesliga 5 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6798.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 6 DE",
+         "name":"Sky Sport Bundesliga 6 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6799.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport Bundesliga 7 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6800.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 8 DE",
+         "name":"Sky Sport Bundesliga 8 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6801.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 9 DE",
+         "name":"Sky Sport Bundesliga 9 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6802.ts"
+      },
+      {
+         "id":"Sport1 DE",
+         "name":"Sport 1 US",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6982.ts"
+      },
+      {
+         "id":"SPORT1 HD 1080P DE",
+         "name":"Sport 1+ HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6980.ts"
+      },
+      {
+         "id":"sportdigital DE",
+         "name":"Sport Digital HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6981.ts"
+      },
+      {
+         "id":"1",
+         "name":"Pro7 Fun HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7056.ts"
+      },
+      {
+         "id":"1",
+         "name":"Pro7 Maxx HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7055.ts"
+      },
+      {
+         "id":"1-2-3.tv HD 1080P DE",
+         "name":"1-2-3.tv HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7230.ts"
+      },
+      {
+         "id":"ANIXE HD 1080P DE",
+         "name":"ANIXE HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7243.ts"
+      },
+      {
+         "id":"Channel21 HD 1080P DE",
+         "name":"Channel21 HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7242.ts"
+      },
+      {
+         "id":"Hr-fernsehen HD 1080P DE",
+         "name":"Hr-fernsehen HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7232.ts"
+      },
+      {
+         "id":"HSE24 EXTRA HD 1080P DE",
+         "name":"HSE24 EXTRA HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7231.ts"
+      },
+      {
+         "id":"MDR S-Anhalt HD 1080P DE",
+         "name":"MDR S-Anhalt HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7228.ts"
+      },
+      {
+         "id":"MDR Sachsen HD 1080P DE",
+         "name":"MDR Sachsen HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7227.ts"
+      },
+      {
+         "id":"MDR Thüringen HD 1080P DE",
+         "name":"MDR Thüringen HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7226.ts"
+      },
+      {
+         "id":"1",
+         "name":"Mediaspar",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7225.ts"
+      },
+      {
+         "id":"MTV HD 1080P DE",
+         "name":"MTV HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7247.ts"
+      },
+      {
+         "id":"ProSieben HD 1080P DE",
+         "name":"ProSieben HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7249.ts"
+      },
+      {
+         "id":"ProSieben MAXX DE",
+         "name":"ProSieben Maxx HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7244.ts"
+      },
+      {
+         "id":"QVC BEAUTY&STYLE DE",
+         "name":"QVC BEAUTY & STYLE HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7238.ts"
+      },
+      {
+         "id":"QVC HD 1080P DE",
+         "name":"QVC HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7237.ts"
+      },
+      {
+         "id":"QVC PLUS HD 1080P DE",
+         "name":"QVC PLUS HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7236.ts"
+      },
+      {
+         "id":"Rbb Berlin HD 1080P DE",
+         "name":"Rbb Berlin HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7235.ts"
+      },
+      {
+         "id":"rbb Brandenburg HD 1080P DE",
+         "name":"rbb Brandenburg HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7234.ts"
+      },
+      {
+         "id":"RD HD 1080P DE",
+         "name":"RD HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7233.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky 3D ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7222.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport Fanzone HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7224.ts"
+      },
+      {
+         "id":"SPIEGEL TV Wissen HD 1080P DE",
+         "name":"SPIEGEL TV Wissen HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7240.ts"
+      },
+      {
+         "id":"SPORT1 HD 1080P DE",
+         "name":"SPORT1 HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7223.ts"
+      },
+      {
+         "id":"1",
+         "name":"SR Fernsehen HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7241.ts"
+      },
+      {
+         "id":"tagesschau24 HD 1080P DE",
+         "name":"tagesschau24 HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7239.ts"
+      },
+      {
+         "id":"TLC HD 1080P DE",
+         "name":"TLC HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7246.ts"
+      },
+      {
+         "id":"TNT Comedy HD DE",
+         "name":"TNT Comedy HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7248.ts"
+      },
+      {
+         "id":"Zee One DE",
+         "name":"Zee One HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7250.ts"
+      },
+      {
+         "id":"1",
+         "name":" Sky Cinema Hits",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7266.ts"
+      },
+      {
+         "id":"E! Entertainm HD DE",
+         "name":"E! Entertainm HD ( 1080P )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7264.ts"
+      },
+      {
+         "id":"Motorvision TV DE",
+         "name":"Motorvision TV",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7263.ts"
+      },
+      {
+         "id":"Sky Cinema Family HD DE",
+         "name":"Sky Cinema Family",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7265.ts"
+      },
+      {
+         "id":"E! Entertainm HD DE",
+         "name":"E! Entertainement",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7267.ts"
+      },
+      {
+         "id":"Sky Arts HD DE",
+         "name":"Sky Arts HD ( EN AUDIO )",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7262.ts"
+      },
+      {
+         "id":"TNT Film DE",
+         "name":"DE : TNT Film TCM",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/510.ts"
+      },
+      {
+         "id":"TNT Comedy HD DE",
+         "name":"DE : TNT Comedy",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3473.ts"
+      },
+      {
+         "id":"Syfy DE",
+         "name":"DE : Syfy",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/930.ts"
+      },
+      {
+         "id":"SPORT1 HD 1080P DE",
+         "name":"DE : Sport 1  HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/511.ts"
+      },
+      {
+         "id":"Sky Sport Austria DE",
+         "name":"DE : sky sport austria",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/931.ts"
+      },
+      {
+         "id":"Sky Nostalgie DE",
+         "name":"DE : Sky Nostalgie",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/513.ts"
+      },
+      {
+         "id":"Sky Krimi DE",
+         "name":"DE : Sky Krimi",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/514.ts"
+      },
+      {
+         "id":"Sky Atlantic HD DE",
+         "name":"DE : Sky Atlantic HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/515.ts"
+      },
+      {
+         "id":"Sky Atlantic HD DE",
+         "name":"DE : Sky atlantic",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/935.ts"
+      },
+      {
+         "id":"RTL II DE",
+         "name":"DE : RTL2",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/941.ts"
+      },
+      {
+         "id":"RTL Passion DE",
+         "name":"DE : RTL Passion",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/516.ts"
+      },
+      {
+         "id":"RTL Living DE",
+         "name":"DE : RTL Living",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/517.ts"
+      },
+      {
+         "id":"RTL HD 1080P DE",
+         "name":"DE : RTL HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3607.ts"
+      },
+      {
+         "id":"RTL Crime HD DE",
+         "name":"DE : RTL Crime HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/518.ts"
+      },
+      {
+         "id":"FOX HD 1080P DE",
+         "name":"DE : Fox HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/519.ts"
+      },
+      {
+         "id":"Eurosport 1 HD DE",
+         "name":"DE : Eurosport 1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/521.ts"
+      },
+      {
+         "id":"Disney Cinemagic HD 1080P DE",
+         "name":"DE : Disney Cinemagic HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/523.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 3 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3614.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 9 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3620.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 8 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3619.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 7 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3618.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 6 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3617.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 5 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3616.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 4 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3615.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 11 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3621.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany Sport 10 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3622.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 9 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3630.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 8 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3629.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 7 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3628.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 6 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3627.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 5 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3626.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 4 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3625.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 3 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3624.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 2 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3623.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE | Sky Germany BUNDESLIGA 10 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/3631.ts"
+      },
+      {
+         "id":"13th Street HD 1080P DE",
+         "name":"DE VIP: 13th Street HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6290.ts"
+      },
+      {
+         "id":"A&E HD 1080P DE",
+         "name":"DE VIP: A&E HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6291.ts"
+      },
+      {
+         "id":"Animal Planet HD 1080P DE",
+         "name":"DE VIP: Animal Planet HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6292.ts"
+      },
+      {
+         "id":"AXN DE",
+         "name":"DE VIP: AXN HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6293.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE VIP: Discovery HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6294.ts"
+      },
+      {
+         "id":"Disney Channel HD 1080P DE",
+         "name":"DE VIP: Disney Channel HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6295.ts"
+      },
+      {
+         "id":"Disney Cinemagic HD 1080P DE",
+         "name":"DE VIP: Disney Cinemagic HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6296.ts"
+      },
+      {
+         "id":"FOX HD DE",
+         "name":"DE VIP: FOX HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6297.ts"
+      },
+      {
+         "id":"History HD 1080P DE",
+         "name":"DE VIP: History HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6298.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE VIP: MGM HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6299.ts"
+      },
+      {
+         "id":"n-tv HD 1080P DE",
+         "name":"DE VIP: N-TV HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6300.ts"
+      },
+      {
+         "id":"Nat Geo Wild HD 1080P DE",
+         "name":"DE VIP: Nat Geo Wild HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6301.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE VIP: NatGeo HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6302.ts"
+      },
+      {
+         "id":"National Geographic HD 1080P DE",
+         "name":"DE VIP: National Geographic HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6303.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE VIP: PRO 7 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6304.ts"
+      },
+      {
+         "id":"ProSieben Maxx HD 1080P DE",
+         "name":"DE VIP: ProSieben Maxx HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6305.ts"
+      },
+      {
+         "id":"RTL II HD 1080P DE",
+         "name":"DE VIP: RTL 2 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6306.ts"
+      },
+      {
+         "id":"1",
+         "name":"DE VIP: RTL HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6307.ts"
+      },
+      {
+         "id":"RTL HD 1080P DE",
+         "name":"DE VIP: RTL NITRO HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6308.ts"
+      },
+      {
+         "id":"SAT.1 HD DE",
+         "name":"DE VIP: SAT.1 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6309.ts"
+      },
+      {
+         "id":"SIXX HD 1080P DE",
+         "name":"DE VIP: sixx HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6310.ts"
+      },
+      {
+         "id":"Sky Action HD 1080P DE",
+         "name":"DE VIP: Sky Action HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6311.ts"
+      },
+      {
+         "id":"Sky Atlantic HD 1080P DE",
+         "name":"DE VIP: Sky Atlantic HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6312.ts"
+      },
+      {
+         "id":"Sky Cinema HD 1080P DE",
+         "name":"DE VIP: Sky Cinema HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6313.ts"
+      },
+      {
+         "id":"Sky Hits HD 1080P DE",
+         "name":"DE VIP: Sky Hits HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6314.ts"
+      },
+      {
+         "id":"Super RTL HD 1080P DE",
+         "name":"DE VIP: SUPER RTL HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6315.ts"
+      },
+      {
+         "id":"Syfy HD 1080P DE",
+         "name":"DE VIP: SyFy HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6316.ts"
+      },
+      {
+         "id":"TNT Serie HD 1080P DE",
+         "name":"DE VIP: TNT Serie HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6317.ts"
+      },
+      {
+         "id":"VOX HD 1080P DE",
+         "name":"DE VIP: VOX HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/6318.ts"
+      },
+      {
+         "id":"Sky Sport 1 HD DE",
+         "name":"Sky Sport 1 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7524.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport 10 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7515.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport 11 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7514.ts"
+      },
+      {
+         "id":"Sky Sport 2 HD DE",
+         "name":"Sky Sport 2 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7523.ts"
+      },
+      {
+         "id":"Sky Sport 3 DE",
+         "name":"Sky Sport 3 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7522.ts"
+      },
+      {
+         "id":"Sky Sport 4 DE",
+         "name":"Sky Sport 4 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7521.ts"
+      },
+      {
+         "id":"Sky Sport 5 DE",
+         "name":"Sky Sport 5 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7520.ts"
+      },
+      {
+         "id":"Sky Sport 6 DE",
+         "name":"Sky Sport 6 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7519.ts"
+      },
+      {
+         "id":"Sky Sport 7 DE",
+         "name":"Sky Sport 7 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7518.ts"
+      },
+      {
+         "id":"Sky Sport 8 DE",
+         "name":"Sky Sport 8 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7517.ts"
+      },
+      {
+         "id":"Sky Sport 9 DE",
+         "name":"Sky Sport 9 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7516.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 1 HD DE",
+         "name":"Sky Sport Bundesliga 1 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7534.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport Bundesliga 10 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7533.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 2 DE",
+         "name":"Sky Sport Bundesliga 2 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7532.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 3 DE",
+         "name":"Sky Sport Bundesliga 3 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7531.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 4 DE",
+         "name":"Sky Sport Bundesliga 4 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7530.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 5 DE",
+         "name":"Sky Sport Bundesliga 5 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7529.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 6 DE",
+         "name":"Sky Sport Bundesliga 6 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7528.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Sport Bundesliga 7 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7527.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 8 DE",
+         "name":"Sky Sport Bundesliga 8 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7526.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 9 DE",
+         "name":"Sky Sport Bundesliga 9 HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7525.ts"
+      },
+      {
+         "id":"Sky Sport News DE",
+         "name":"Sky Sport News HD 1080P",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7513.ts"
+      },
+      {
+         "id":"Disney Junior HD DE",
+         "name":"VIP Disney Junior HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7591.ts"
+      },
+      {
+         "id":"Eurosport 2 HD DE",
+         "name":"VIP Eurosport 2 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7590.ts"
+      },
+      {
+         "id":"MDR S-Anhalt HD 1080P DE",
+         "name":"VIP MDR S-Anhalt HD 1080P DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7576.ts"
+      },
+      {
+         "id":"MDR Sachsen HD 1080P DE",
+         "name":"VIP MDR Sachsen HD 1080P DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7575.ts"
+      },
+      {
+         "id":"MDR Thüringen HD 1080P DE",
+         "name":"VIP MDR Thüringen HD 1080P DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7574.ts"
+      },
+      {
+         "id":"1",
+         "name":"VIP Mediaspar HD 1080P DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7573.ts"
+      },
+      {
+         "id":"MTV HD 1080P DE",
+         "name":"VIP MTV HD 1080P DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7577.ts"
+      },
+      {
+         "id":"RTL Crime HD DE",
+         "name":"VIP RTL Crime HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7589.ts"
+      },
+      {
+         "id":"SAT.1 HD DE",
+         "name":"VIP SAT.1 HD 1080P DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7578.ts"
+      },
+      {
+         "id":"Sky 1 HD DE",
+         "name":"VIP Sky 1 HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7579.ts"
+      },
+      {
+         "id":"Sky Arts HD DE",
+         "name":"VIP Sky Arts HD (1080P)",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7580.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Cinema  1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7582.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Cinema  24 HD",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7581.ts"
+      },
+      {
+         "id":"Sky Cinema Family HD DE",
+         "name":"Sky Cinema Family HD",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7583.ts"
+      },
+      {
+         "id":"Sky Sport Austria HD DE",
+         "name":"Sky Sport Austria HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7584.ts"
+      },
+      {
+         "id":"1",
+         "name":"SRF 1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7587.ts"
+      },
+      {
+         "id":"1",
+         "name":"SRF Zwei DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7586.ts"
+      },
+      {
+         "id":"1",
+         "name":"SWR DE",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7585.ts"
+      },
+      {
+         "id":"Universal Channel HD DE",
+         "name":"Universal Channel HD",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"VIP",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/7588.ts"
+      },
+      {
+         "id":"TLC DE",
+         "name":"TLC HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/16747.ts"
+      },
+      {
+         "id":"ZDF DE",
+         "name":"ZDF FHD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8862.ts"
+      },
+      {
+         "id":"1",
+         "name":"KABEL 1 HD 1080",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8758.ts"
+      },
+      {
+         "id":"PHOENIX DE",
+         "name":"Phoenix HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8760.ts"
+      },
+      {
+         "id":"Romance TV DE",
+         "name":"ROMANCE TV",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8759.ts"
+      },
+      {
+         "id":"RTL II HD 1080P DE",
+         "name":"RTL II YOU HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8761.ts"
+      },
+      {
+         "id":"SIXX HD 1080P DE",
+         "name":"SIXX HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8756.ts"
+      },
+      {
+         "id":"VOX HD DE",
+         "name":"VOX HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8757.ts"
+      },
+      {
+         "id":"Sky Sport 1 HD DE",
+         "name":"*Sky Sport 1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8276.ts"
+      },
+      {
+         "id":"Sky Sport 2 DE",
+         "name":"*Sky Sport 2 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8275.ts"
+      },
+      {
+         "id":"Sky Sport 1 HD DE",
+         "name":"Sky Sport 1 ",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8274.ts"
+      },
+      {
+         "id":"1",
+         "name":"SKY SPORT 10 HD ",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8262.ts"
+      },
+      {
+         "id":"1",
+         "name":"SKY SPORT 11 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8261.ts"
+      },
+      {
+         "id":"Sky Sport 2 DE",
+         "name":"Sky Sport 2 FHD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8273.ts"
+      },
+      {
+         "id":"Sky Sport 3 DE",
+         "name":"Sky Sport 3 FHD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8272.ts"
+      },
+      {
+         "id":"Sky Sport 3 DE",
+         "name":"SKY SPORT 3 HD ",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8271.ts"
+      },
+      {
+         "id":"Sky Sport 4 DE",
+         "name":"Sky Sport 4 FHD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8270.ts"
+      },
+      {
+         "id":"Sky Sport 4 DE",
+         "name":"SKY SPORT 4 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8269.ts"
+      },
+      {
+         "id":"Sky Sport 5 DE",
+         "name":"Sky Sport 5 FHD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8268.ts"
+      },
+      {
+         "id":"Sky Sport 5 DE",
+         "name":"SKY SPORT 5 HD ",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8267.ts"
+      },
+      {
+         "id":"Sky Sport 6 DE",
+         "name":"SKY SPORT 6 HD ",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8266.ts"
+      },
+      {
+         "id":"Sky Sport 7 DE",
+         "name":"SKY SPORT 7 HD ",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8265.ts"
+      },
+      {
+         "id":"Sky Sport 8 DE",
+         "name":"SKY SPORT 8 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8264.ts"
+      },
+      {
+         "id":"Sky Sport 9 DE",
+         "name":"SKY SPORT 9 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8263.ts"
+      },
+      {
+         "id":"Eurosport 2 DE",
+         "name":"Eurosport360 2 ",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8107.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eurosport360 4",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8106.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eurosport360 5 ",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8105.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eurosport360 6",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8104.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eurosport360 7",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8103.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eurosport360 8",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8102.ts"
+      },
+      {
+         "id":"1",
+         "name":"Eurosport360 9",
+         "image":"",
+         "group":"German",
+         "quality":"4k",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8101.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 1 HD DE",
+         "name":"Sky Bundesliga 1 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8145.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 10 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8136.ts"
+      },
+      {
+         "id":"Sky Sport Bundesliga 2 DE",
+         "name":"Sky Bundesliga 2 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8144.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 3 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8143.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 4 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8142.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 5 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8141.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 6 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8140.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 7 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8139.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 8 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8138.ts"
+      },
+      {
+         "id":"1",
+         "name":"Sky Bundesliga 9 HD",
+         "image":"",
+         "group":"German",
+         "quality":"",
+         "type":"",
+         "url":"http://iptvfree1.com:6969/live/wxa08@muimail.com/7thP97Jllo/8137.ts"
+      }
+   ]
 }
