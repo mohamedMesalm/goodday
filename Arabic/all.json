@@ -1261,7 +1261,7 @@
    "arislamic":[
       {
          "id":"1",
-         "name":"quran tv",
+         "name":"Quran tv",
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823085/tv%20icon/al_quran_al_kareem_tv.png",
          "group":"ARABIC",
          "quality":"",
@@ -1270,7 +1270,7 @@
       },
       {
          "id":"1",
-         "name":"sunna tv",
+         "name":"Sunna tv",
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823672/tv%20icon/saudi_sunnah_islamic.png",
          "group":"ARABIC",
          "quality":"",
@@ -1279,7 +1279,7 @@
       },
       {
          "id":"1",
-         "name":"iqraa tv",
+         "name":"Iqraa tv",
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823775/tv%20icon/iqraa.png",
          "group":"ARABIC",
          "quality":"",
