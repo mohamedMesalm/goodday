@@ -1689,6 +1689,7 @@
          "url1":"http://iptvfree1.com:6969/live/",
          "url2":"/6501.ts"
       },
+      
       {
          "id":"1",
          "name":"Semsem",
@@ -1698,6 +1699,16 @@
          "type":"",
          "url1":"http://iptvfree1.com:6969/live/",
          "url2":"/1017.ts"
+      },
+       {
+         "id":"1",
+         "name":"Toyor Baby",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1517927939/toyor_baby.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url1":"http://iptvfree1.com:6969/live/",
+         "url2":"/7061.ts"
       },
       {
          "id":"1",
