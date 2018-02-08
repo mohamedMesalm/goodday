@@ -71,7 +71,7 @@
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884008/tv%20icon/be_in_mena_sports_08_hd_fsbmah.png",
          "type":"",
          "quality":"",
-         "url":"http://212.83.182.86:9095/rabbit/bein8sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggMTA6NDE6MTMgQU0maGFzaF92YWx1ZT1Lc25JMzQ2RGpxbWZPdGgrNFVoaExBPT0mdmFsaWRtaW51dGVzPTI="
+         "url":" http://144.76.27.16:8088/stream/Bein_8boss/playlist.m3u8?id=20014&pk=7d7eed5efc19c8ca8e2eb2804d50b5d4efed72edb3facbcf47eb2955014ac07c"
       },
       {
          "id":"1",
