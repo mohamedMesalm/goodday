@@ -1,0 +1,1581 @@
+{
+   "arsports":[
+
+	    {
+         "id":"1",
+         "name":"BeIN SPorts News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884030/tv%20icon/be_in_mena_sports_news_pvhrnu.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/29.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 1 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884030/tv%20icon/be_in_mena_sports_01_hd_zx1vgm.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/30.m3u8"
+      },
+      {
+         "id":"2",
+         "name":"  BeIN Sports 2 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884025/tv%20icon/be_in_mena_sports_02_hd_aa3buq.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/31.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884022/tv%20icon/be_in_mena_sports_03_hd_ioqaau.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/32.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 4 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884027/tv%20icon/be_in_mena_sports_04_hd_xuuhlm.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/33.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 5 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884020/tv%20icon/be_in_mena_sports_05_hd_ouh7ra.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/34.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 6 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884015/tv%20icon/be_in_mena_sports_06_hd_wzdnug.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/35.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 7 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884019/tv%20icon/be_in_mena_sports_07_hd_v0581y.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/36.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 8 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884008/tv%20icon/be_in_mena_sports_08_hd_fsbmah.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/37.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 9 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884007/tv%20icon/be_in_mena_sports_09_hd_zobvhx.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/38.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 10 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884008/tv%20icon/be_in_mena_sports_10_hd_jqffx5.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/39.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 11 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885788/tv%20icon/be_in_mena_sports_11_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/40.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 12 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885787/tv%20icon/be_in_mena_sports_12_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/41.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 13 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885785/tv%20icon/be_in_mena_sports_13_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/42.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 14 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885785/tv%20icon/be_in_mena_sports_14_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/43.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 15 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885780/tv%20icon/be_in_mena_sports_15_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/44.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 16 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885785/tv%20icon/be_in_mena_sports_16_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/45.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Sports 17 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514885776/tv%20icon/be_in_mena_sports_17_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/46.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Abu Dhabi Sports 1 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6030.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Abu Dhabi Sports 2 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6031.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Abu Dhabi Sports 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6032.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Abu Dhabi Sports 4 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6033.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Abu Dhabi Sports 5 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6034.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Abu Dhabi Sports 6 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6035.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 1 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886896/tv%20icon/osn_sports1_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4645.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886894/tv%20icon/osn_sports3_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4643.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 4 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886894/tv%20icon/osn_sports4_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4642.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Cricket HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514887072/tv%20icon/osn_sports_cricket_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4705.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN CRICKET HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514887072/tv%20icon/osn_sports_cricket_hd.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5865.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Alkass Sport 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514922784/tv%20icon/al_kass_qa.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3387.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Alkass Sport 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514922784/tv%20icon/al_kass_qa.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3388.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Alkass Sport 3",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514922784/tv%20icon/al_kass_qa.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3389.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Alkass Sport 4",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514922784/tv%20icon/al_kass_qa.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3390.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Alkass Sport 5",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514922784/tv%20icon/al_kass_qa.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3391.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886896/tv%20icon/osn_sports1_hd.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6005.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514923116/tv%20icon/osn_sports2_action_hd.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6006.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 3",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886894/tv%20icon/osn_sports3_hd.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6007.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Sports 4",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886894/tv%20icon/osn_sports4_hd.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6008.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN WWE",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514923879/tv%20icon/A_WWE.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4358.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN TRACE URBAN",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924072/tv%20icon/trace_fr_urban.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4369.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN yas sport",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924210/tv%20icon/yas_sports_ae.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6012.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AD Sports 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1049.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AD Sports 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1048.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AD Sports 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4280.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AD Sports 4 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4279.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AD Sports 5 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4278.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AD Sports 6 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514886589/tv%20icon/abu_dhabi_sports_ae.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4277.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC PRO SPORTS 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924333/tv%20icon/mbc_ae_pro_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/2497.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC PRO SPORTS 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924333/tv%20icon/mbc_ae_pro_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/2498.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC Pro Sports 3",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924333/tv%20icon/mbc_ae_pro_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1043.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC PRO SPORTS 4",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924333/tv%20icon/mbc_ae_pro_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4281.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Dubai Sports 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924491/tv%20icon/dubai_ae_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4063.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Dubai Racing 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924602/tv%20icon/dubai_ae_racing_2.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4065.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Dubai Sport 3",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924491/tv%20icon/dubai_ae_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4064.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Dubai Sports 4",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924491/tv%20icon/dubai_ae_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4062.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Nile Sport",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924805/tv%20icon/nile-sport-logo.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6337.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ON Sport HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514924948/tv%20icon/ON_Sport.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7434.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ARRIYADIA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514925133/tv%20icon/ARRIYADIA.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1003.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Arriadia",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514925515/tv%20icon/saudi_sport_channel_live_online_free_arabic_channel.jpg",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1512.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Sharjah Sport",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514925611/tv%20icon/sharjah_sports_tv.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/9119ts"
+      },
+      {
+         "id":"1",
+         "name":"DMC Sports",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514925654/tv%20icon/dmc_eg_sports.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7062.m3u8"
+      }
+   ],
+   "arnews":[
+      {
+         "id":"1",
+         "name":"Al Jazeera Mubasher",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815636/tv%20icon/al_jazeera_mubasher.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/999.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AlJazerra",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815763/tv%20icon/al_jazeera_channel.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/558.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al Jazeera English",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815849/tv%20icon/al_jazeera_english.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1000.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"TRT Arabic",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815984/tv%20icon/TRTarabic.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/553.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"SKY NEWS",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816306/tv%20icon/sky_uk_news_arabia.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5407.m3u8"
+      },
+      {
+         "id":"1",
+         "name":" France 24 AR",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816446/tv%20icon/france24.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/559.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"NILE NEWS",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514816914/tv%20icon/nile_news_eg.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6336.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Fox News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514817152/tv%20icon/Fox_News.png",
+         "type":"VIP",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6853.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Syria News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514817570/tv%20icon/al_ikhbaria_sy.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/555.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"CNN",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514818578/tv%20icon/cnn.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6505.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al Quds",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514819054/tv%20icon/AL_quds.jpg",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7058.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al Alam",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514819233/tv%20icon/Al-Alam.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/549.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al Manar",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514819868/tv%20icon/al_manar.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/541.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al arabia Alhadath",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820383/tv%20icon/alhadth.jpg",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/550.m3u8"
+      },
+      {
+         "id":"1",
+         "name":" AL Hadath",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823362/tv%20icon/al_hadath_news_eg.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6341.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"NBN Lebanon",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820729/tv%20icon/nbn_lebanon.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1506.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al Arabiya",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514820829/tv%20icon/al_arabiya_hd.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6340.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al Iraqia News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514821090/tv%20icon/al_iraqya_news.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/9164.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Echorouk News",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514821325/tv%20icon/echorouk_tv_news_dz.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/8237.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Al ekhbariya tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514821497/tv%20icon/Al_Ekhbariya.png",
+         "type":"",
+         "quality":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3047.m3u8"
+      }
+   ],
+   "armoviese":[
+      {
+         "id":"1",
+         "name":"BeIN Movies 1HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825441/tv%20icon/be_in_mena_movies_01_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6608.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Movies 2HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825495/tv%20icon/be_in_mena_movies_02_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6609.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Movies 3HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825573/tv%20icon/be_in_mena_movies_03_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6610.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BeIN Movies 4HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825691/tv%20icon/be_in_mena_movies_04_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6611.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 1HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825441/tv%20icon/be_in_mena_movies_01_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/506.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 2HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825495/tv%20icon/be_in_mena_movies_02_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/507.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825573/tv%20icon/be_in_mena_movies_03_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/508.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"BEIN MOVIES 4 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514825691/tv%20icon/be_in_mena_movies_04_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4612.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826106/tv%20icon/osn_movies_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6713.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies 2 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826230/tv%20icon/osn_movies_hd_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6717.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Action HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826339/tv%20icon/osn_movies_action_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6706.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Action 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826595/tv%20icon/osn_movies_action_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6707.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Family HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826914/tv%20icon/osn_movies_family_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6711.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Comedy HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514827033/tv%20icon/osn_movies_comedy_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6708.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Priemer HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514827326/tv%20icon/osn_movies_premiere.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6715.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514827879/tv%20icon/osn_movies_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6710.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Festival HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514828064/tv%20icon/osn_movies_festival_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6712.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826106/tv%20icon/osn_movies_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4364.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies 2 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826230/tv%20icon/osn_movies_hd_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4361.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Action",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826339/tv%20icon/osn_movies_action_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3392.m3u8"
+      },
+      {
+         "id":"1",
+         "name":" OSN Movies Action 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514826595/tv%20icon/osn_movies_action_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3377.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Movies Festival",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514828064/tv%20icon/osn_movies_festival_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3369.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Star Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514828791/tv%20icon/Star_movies_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4371.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Fox Movies HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829019/tv%20icon/fox_movies_us.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6173.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN FX HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829236/tv%20icon/Fxhd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6172.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN SYFY HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829493/tv%20icon/Syfy-HD.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6167.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829600/tv%20icon/osn_ya_hala_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6140.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829675/tv%20icon/osn_ya_hala_hd_plus2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6141.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala Cinema",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514829728/tv%20icon/osn_ya_hala_cinema_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6144.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala Oula HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514830702/tv%20icon/Yahala_Oula.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6142.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Ya Hala Shabab",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831159/tv%20icon/osn_ya_hala_shabab_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6143.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Cinema 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831607/tv%20icon/osn_cinema_1.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6135.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Cinema 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831704/tv%20icon/osn_Cinema_2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6136.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Comedy Central HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514831845/tv%20icon/comedy-central.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6166.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"DMC Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832129/tv%20icon/dmc_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7445.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC Masr",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832175/tv%20icon/mbc_ae_masr.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1044.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC DRAMA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832916/tv%20icon/mbc_ae_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/538.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832500/tv%20icon/mbc_ae_drama_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4056.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC Dramar +",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832680/tv%20icon/mbc-drama-plus.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5817.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC BOLLYWOOD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832865/tv%20icon/mbc_ae_bollywood.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":" ",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6793.m3u8"
+      },
+      {
+         "id":"1",
+         "name":" MBC 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514832956/tv%20icon/mbc_ae_1_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/536.m3u8"
+      },
+      {
+         "id":"1",
+         "name":" MBC 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833041/tv%20icon/mbc_ae_2_masr.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/537.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC 4",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833080/tv%20icon/mbc_ae_4.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/2502.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC Action",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833114/tv%20icon/mbc_ae_action.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/2499.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC MAX",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833175/tv%20icon/mbc_ae_max.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/2501.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC Variety HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833247/tv%20icon/mbc_ae_variety.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4054.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Nile Drama",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514833925/tv%20icon/nil_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6334.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ART CINEMA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834034/tv%20icon/art_cinema.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/978.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Art Hekayat 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834083/tv%20icon/art_hekayat.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3379.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ART HEKAYAT 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834129/tv%20icon/art_hekayat_2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6036.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ART AFLAM 1",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834189/tv%20icon/art_aflam_1.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/979.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ART AFLAM 2",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834244/tv%20icon/art_aflam_2.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/980.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Rotana Cinema HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834473/tv%20icon/rotana_cinema.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5505.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Rotana Aflam HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834618/tv%20icon/rotana_aflam.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5506.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Rotana Classic HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834674/tv%20icon/rotana_classic.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5504.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"SYRIA DRAMA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514834857/tv%20icon/syria-drama.jpg",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6520.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"SeeVii Drama HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835005/tv%20icon/SeeVii_Drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7469.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"CBC Drama",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835204/tv%20icon/cbc_eg.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1021.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"NILE COMEDY",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835335/tv%20icon/nil_comedy.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6332.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Nile Cinema",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835519/tv%20icon/nile_cinema.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6331.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Panorama Film",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514835928/tv%20icon/Panorama_Film.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1007.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Panorama Drama",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836310/tv%20icon/panorama_drama.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1010.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MOGA comedy",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836513/tv%20icon/moga-comedy.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1011.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Rotana Masria",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836556/tv%20icon/rotana_masriya_1.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/551.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"ZEE AFLAM",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836662/tv%20icon/zee_aflam.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1009.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Zee Alwan",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514836790/tv%20icon/zee_alwan_in.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1503.m3u8"
+      }
+   ],
+   "arislamic":[
+      {
+         "id":"1",
+         "name":"Quran tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823085/tv%20icon/al_quran_al_kareem_tv.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3042.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Sunna tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823672/tv%20icon/saudi_sunnah_islamic.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3043.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Iqraa tv",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823775/tv%20icon/iqraa.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3044.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Tarteel",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1515080723/tv%20icon/Tarteel.png",
+         "group":"",
+	     "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7190.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AL IMAN TV",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514824063/tv%20icon/al_iman.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7178.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"AL SIRAT",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514824877/tv%20icon/Assirat.jpg",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7023.m3u8"
+      }
+   ],
+   "ardocumentary":[
+      {
+         "id":"1",
+         "name":"Al Jazeera Documentary",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514808062/tv%20icon/al_jazeera_documentary.png",
+         "group":"",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1001.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Nat Geo AD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514814819/tv%20icon/natgeochannelabudhabi.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3384.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN National Geo HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514808536/tv%20icon/nat_geo_us_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6698.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN National Geo People HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514808653/tv%20icon/nat_geo_people_us_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6699.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Discovery Science HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514808793/tv%20icon/discovery_science_global_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6705.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Discovery HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514809108/tv%20icon/Discovery_HD.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3375.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Discovery HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514809108/tv%20icon/Discovery_HD.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6703.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Discovery ID HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514813777/tv%20icon/Investigation_Discovery.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6704.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Nat Geo Wild",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514814074/tv%20icon/nat_geo_wild_lam_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3383.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Nat Geo People HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514808653/tv%20icon/nat_geo_people_us_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4353.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Nat Geo HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514808536/tv%20icon/nat_geo_us_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4354.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Animal Planet",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514815374/tv%20icon/animal_planet.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/3393.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN National Geo Wild HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514814074/tv%20icon/nat_geo_wild_lam_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6964.m3u8"
+      }
+   ],
+   "arkids":[
+      {
+         "id":"1",
+         "name":"OSN Movies Kids HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514800614/tv%20icon/osn_movies_kids.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6714.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Disney Junior",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514802993/tv%20icon/Disney_Junior.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6701.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Disney Junior",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514802993/tv%20icon/Disney_Junior.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6137.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Disney HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803108/tv%20icon/disney_channel_global.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6700.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Disney XD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803290/tv%20icon/Disney_XD.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6702.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Disney Channel HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803108/tv%20icon/disney_channel_global.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7142.m3u8"
+      },
+      {
+         "id":"1",
+         "name":" OSN Disney Channel HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803108/tv%20icon/disney_channel_global.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4350.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Bein Baraem",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803556/tv%20icon/Baraem.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6494.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Bein Baraem",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803556/tv%20icon/Baraem.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/5962.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Bein Jeem HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803656/tv%20icon/JeemTV_logo.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"VIP",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6501.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Semsem",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514803881/tv%20icon/semsem.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1017.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Almajd Kids",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514804050/tv%20icon/magd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1014.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"MBC 3 HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514804305/tv%20icon/mbc_ae_3_hd.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4059.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"OSN Nickelodeon HD",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514804450/tv%20icon/nickelodeon.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/4372.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"TAHA",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514823921/tv%20icon/taha_tv.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/6773.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"TOYOR ALJANNAH",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514804771/tv%20icon/toyor_al_janah.png",
+         "group":"",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/1015.m3u8"
+      },
+      {
+         "id":"1",
+         "name":"Cartoon Network",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514804882/tv%20icon/cartoon_network_global.png",
+         "group":"ARABIC",
+         "quality":"",
+         "type":"",
+         "url":"http://live1.livetvindia.co.in:8000/live/hgkofishj/1564894asd/7269.m3u8"
+      }
+   ]
+}
