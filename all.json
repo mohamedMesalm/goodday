@@ -1,6 +1,15 @@
 {
    "arsports":[
 
+	  {
+         "id":"1",
+         "name":"test",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884030/tv%20icon/be_in_mena_sports_news_pvhrnu.png",
+         "type":"",
+         "quality":"",
+         "url":"http://185.21.217.32:9099/dove/chelseatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggNTo1Njo1MCBQTSZoYXNoX3ZhbHVlPWNCWXNETkdFeTNxZTJCQVYyY1J1ZHc9PSZ2YWxpZG1pbnV0ZXM9Mg=="
+      },
+	   
 	    {
          "id":"1",
          "name":"BeIN SPorts News",
