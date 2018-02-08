@@ -71,7 +71,7 @@
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884008/tv%20icon/be_in_mena_sports_08_hd_fsbmah.png",
          "type":"",
          "quality":"",
-         "url":"http://212.83.182.86:9095/rabbit/bein8sd/l_216520_19376652_2118.ts?nimblesessionid=35382674&wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggNzo1NzoyNiBBTSZoYXNoX3ZhbHVlPVFNaEt0dHB3aVVZMDJ5UGpvanJGSUE9PSZ2YWxpZG1pbnV0ZXM9Mg=="
+         "url":"http://212.83.182.86:9095/rabbit/bein8sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggMTA6NDE6MTMgQU0maGFzaF92YWx1ZT1Lc25JMzQ2RGpxbWZPdGgrNFVoaExBPT0mdmFsaWRtaW51dGVzPTI="
       },
       {
          "id":"1",
