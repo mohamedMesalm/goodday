@@ -12,11 +12,20 @@
 	   
 	    {
          "id":"1",
-         "name":"test",
+         "name":"test disneyxdde",
          "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884030/tv%20icon/be_in_mena_sports_news_pvhrnu.png",
          "type":"",
          "quality":"",
-         "url":"http://46.166.150.136:8554/two/bb78/disneyxdde/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMTggMTA6MjM6MzUgQU0maGFzaF92YWx1ZT1kcklkdWtMeVBoTmIxVHJFVGVKdjB3PT0mdmFsaWRtaW51dGVzPTI="     },
+         "url":"http://46.166.150.136:8554/two/bb78/disneyxdde/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMTggMTA6MjM6MzUgQU0maGFzaF92YWx1ZT1kcklkdWtMeVBoTmIxVHJFVGVKdjB3PT0mdmFsaWRtaW51dGVzPTI=" 
+	    },
+	   	    {
+         "id":"1",
+         "name":"test ftafeat",
+         "image":"http://res.cloudinary.com/mohamedicons/image/upload/c_scale,w_300/v1514884030/tv%20icon/be_in_mena_sports_news_pvhrnu.png",
+         "type":"",
+         "quality":"",
+         "url":"http://185.21.217.29:9100/eight/latest/fatafeattv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMTggMTE6NTQ6MDIgQU0maGFzaF92YWx1ZT0xM1BNRlF3LzFHeHVPa2VwYVJ1ZmV3PT0mdmFsaWRtaW51dGVzPTI=" 
+	    },
 	   
 	    {
          "id":"1",
